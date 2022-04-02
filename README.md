@@ -1,3 +1,4 @@
+- [Best practices for building default constructs](https://github.com/aws/aws-cdk/issues/3235) #cdk
 
 # About
 
