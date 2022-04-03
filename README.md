@@ -1,3 +1,4 @@
+- [EKS blue green deployment](https://github.com/hariohmprasath/eks-blue-green-deployment) #cdk
 - [Osmos Read](https://dailyread.netlify.app/) #daily
 - [Micro-frontend Architectures on AWS](https://aws.amazon.com/blogs/architecture/micro-frontend-architectures-on-aws/) #aws
 - [Best practices for building default constructs](https://github.com/aws/aws-cdk/issues/3235) #cdk
