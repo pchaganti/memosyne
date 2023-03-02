@@ -1,3 +1,4 @@
+- [Aws-prototyping-sdk - CDK and Projen constructs vended in multiple languages](https://github.com/aws/aws-prototyping-sdk) #aws
 - [Deploying A Fargate Cluster With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #aws
 - [Sample projects to demonstrate advanced LocalStack features](https://github.com/localstack/localstack-pro-samples) #aws
 - [Enrich AWS Cost and Usage Data with Infrastructure Data in Athena](https://www.cloudquery.io/how-to-guides/query-aws-cost-and-usage-athena) #aws
