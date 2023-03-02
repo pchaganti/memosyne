@@ -1,3 +1,4 @@
+- [Sample projects to demonstrate advanced LocalStack features](https://github.com/localstack/localstack-pro-samples) #aws
 - [Enrich AWS Cost and Usage Data with Infrastructure Data in Athena](https://www.cloudquery.io/how-to-guides/query-aws-cost-and-usage-athena) #aws
 - [Configuring CloudQuery with LocalStack](https://www.cloudquery.io/how-to-guides/configuring-cloudquery-with-localstack) #aws
 - [Cloudquery - High performance data integration platform](https://github.com/cloudquery/cloudquery) #aws
