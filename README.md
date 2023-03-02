@@ -1,3 +1,4 @@
+- [Enrich AWS Cost and Usage Data with Infrastructure Data in Athena](https://www.cloudquery.io/how-to-guides/query-aws-cost-and-usage-athena) #aws
 - [Configuring CloudQuery with LocalStack](https://www.cloudquery.io/how-to-guides/configuring-cloudquery-with-localstack) #aws
 - [Cloudquery - High performance data integration platform](https://github.com/cloudquery/cloudquery) #aws
 - [A curated list for awesome GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
