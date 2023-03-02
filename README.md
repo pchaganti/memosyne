@@ -1,8 +1,8 @@
 - [OpenBB - Investment research for everyone](https://openbb.co/) #finance
 - [Smell, taste and feel - Testing infrastructure](https://www.tecracer.com/blog/cdk-cit-part2a/) #cdk
-- [Implementing Event Tracking Infra with CDK](https://eng.wealthfront.com/2022/12/14/implementing-event-tracking-infra-with-cdk/) #cdk#aws
-- [Aws-prototyping-sdk - CDK and Projen constructs vended in multiple languages](https://github.com/aws/aws-prototyping-sdk) #cdk#aws
-- [Deploying A Fargate Cluster With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #cdk#aws
+- [Implementing Event Tracking Infra with CDK](https://eng.wealthfront.com/2022/12/14/implementing-event-tracking-infra-with-cdk/) #cdk
+- [Aws-prototyping-sdk - CDK and Projen constructs vended in multiple languages](https://github.com/aws/aws-prototyping-sdk) #cdk
+- [Deploying A Fargate Cluster With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #cdk
 - [Sample projects to demonstrate advanced LocalStack features](https://github.com/localstack/localstack-pro-samples) #aws
 - [Enrich AWS Cost and Usage Data with Infrastructure Data in Athena](https://www.cloudquery.io/how-to-guides/query-aws-cost-and-usage-athena) #aws
 - [Configuring CloudQuery with LocalStack](https://www.cloudquery.io/how-to-guides/configuring-cloudquery-with-localstack) #aws
