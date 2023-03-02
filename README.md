@@ -1,3 +1,4 @@
+- [Smell, taste and feel - Testing infrastructure](https://www.tecracer.com/blog/cdk-cit-part2a/) #cdk
 - [Implementing Event Tracking Infra with CDK](https://eng.wealthfront.com/2022/12/14/implementing-event-tracking-infra-with-cdk/) #cdk#aws
 - [Aws-prototyping-sdk - CDK and Projen constructs vended in multiple languages](https://github.com/aws/aws-prototyping-sdk) #cdk#aws
 - [Deploying A Fargate Cluster With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #cdk#aws
