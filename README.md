@@ -1,3 +1,4 @@
+- [Cloudquery - High performance data integration platform](https://github.com/cloudquery/cloudquery) #aws
 - [A curated list for awesome GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
 - [ngrok - Online in One Line](https://ngrok.com/) #hacks
 - [Poline - Esoteric Color Palette Generation Library](https://meodai.github.io/poline/) #design
