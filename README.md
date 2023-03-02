@@ -1,3 +1,4 @@
+- [Act - Run your GitHub Actions locally](https://github.com/nektos/act) #hacks
 - [Cyclic.sh - Fullstack Javascript Apps - Deploy and Host in Seconds](https://www.cyclic.sh/) #hacks
 - [Ntfy - Push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) #hacks
 - [D2 - Diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2) #hacks
