@@ -1,3 +1,4 @@
+- [Push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) #hacks
 - [D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2) #hacks
 - [Osmos Read](https://dailyread.netlify.app/) #daily
 - [Micro-frontend Architectures on AWS](https://aws.amazon.com/blogs/architecture/micro-frontend-architectures-on-aws/) #aws
