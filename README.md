@@ -1,3 +1,4 @@
+- [Cyclic.sh - Fullstack Javascript Apps - Deploy and Host in Seconds](https://www.cyclic.sh/) #hacks
 - [Push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy) #hacks
 - [D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2) #hacks
 - [Osmos Read](https://dailyread.netlify.app/) #daily
