@@ -1,3 +1,4 @@
+- [Optlib - Options pricing in Python](https://github.com/dbrojas/optlib) #finance
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/) #hacks
 - [OpenBB - Investment research for everyone](https://openbb.co/) #finance
 - [Smell, taste and feel when testing infrastructure](https://www.tecracer.com/blog/cdk-cit-part2a/) #cdk
