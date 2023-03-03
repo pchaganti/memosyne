@@ -1,3 +1,4 @@
+- [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
 - [Optlib - Options pricing in Python](https://github.com/dbrojas/optlib) #finance
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/) #hacks
 - [OpenBB - Investment research for everyone](https://openbb.co/) #finance
