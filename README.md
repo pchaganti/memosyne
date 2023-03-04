@@ -1,3 +1,4 @@
+- [Athena-express - SQL queries in Athena](https://github.com/ghdna/athena-express) #aws
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Ant Design Pro Components](https://pro.ant.design/) #design
 - [Option Chains with matplotlib](https://jorgestutorials.com/optionchain.html) #finance
