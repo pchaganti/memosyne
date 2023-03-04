@@ -1,5 +1,4 @@
-- [Athena-query - SDK3 interface to get query results](https://github.com/classmethod/athena-query) #aws
-- [Athena-express - SQL queries in Athena](https://github.com/ghdna/athena-express) #aws
+- [Athena-query - SQL queries in Athena](https://github.com/classmethod/athena-query) #aws
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Ant Design Pro Components](https://pro.ant.design/) #design
 - [Option Chains with matplotlib](https://jorgestutorials.com/optionchain.html) #finance
