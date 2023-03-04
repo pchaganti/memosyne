@@ -1,3 +1,4 @@
+- [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Ant Design Pro Components](https://pro.ant.design/) #design
 - [Option Chains with matplotlib](https://jorgestutorials.com/optionchain.html) #finance
 - [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
