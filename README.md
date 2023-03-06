@@ -1,3 +1,4 @@
+- [Securing multi-tenant applications with AppSync and Cognito](https://theburningmonk.com/2021/03/how-to-secure-multi-tenant-applications-with-appsync-and-cognito/) #aws
 - [Athena-query - SQL queries in Athena](https://github.com/classmethod/athena-query) #aws
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Ant Design Pro Components](https://pro.ant.design/) #design
