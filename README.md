@@ -1,3 +1,4 @@
+- [KoteiIto/node-athena: a nodejs athena client](https://github.com/KoteiIto/node-athena) #aws
 - [AWS Security Analytics Bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) #aws
 - [Securing multi-tenant applications with AppSync and Cognito](https://theburningmonk.com/2021/03/how-to-secure-multi-tenant-applications-with-appsync-and-cognito/) #aws
 - [Athena-query - SQL queries in Athena](https://github.com/classmethod/athena-query) #aws
