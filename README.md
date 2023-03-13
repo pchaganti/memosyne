@@ -1,3 +1,4 @@
+- [Hugo minimal with Ink](https://hugo-ink.netlify.app/) #design
 - [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
 - [PyAthena - Python DB API 2.0 (PEP 249) client for Amazon Athena.](https://github.com/laughingman7743/PyAthena) #aws
 - [KoteiIto/node-athena: a nodejs athena client](https://github.com/KoteiIto/node-athena) #aws
