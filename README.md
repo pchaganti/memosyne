@@ -19,7 +19,6 @@
 - [Aws-prototyping-sdk - CDK and Projen constructs](https://github.com/aws/aws-prototyping-sdk) #cdk
 - [Fargate Clusters With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #cdk
 - [Advanced LocalStack features](https://github.com/localstack/localstack-pro-samples) #aws
-- [Enrich Cost and Usage Data with Infrastructure info in Athena](https://www.cloudquery.io/how-to-guides/query-aws-cost-and-usage-athena) #aws
 - [Curated GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
 - [ngrok - Online in One Line](https://ngrok.com/) #hacks
 - [Poline - Esoteric Color Palette Generation](https://meodai.github.io/poline/) #design
