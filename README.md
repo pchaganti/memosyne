@@ -1,3 +1,4 @@
+- [AWS Prescriptive Guidance Patterns](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/welcome.html) #aws
 - [Workaround Athena concurrent query limit](https://github.com/DevSecOpsSamples/athena-sqs-apigw) #aws
 - [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
 - [Pillow](https://pillow.app/) #health
