@@ -1,3 +1,4 @@
+- [Workaround for Athena concurrent query limit with Lambda, SQS, dead letter SQS, and API Gateway.](https://github.com/DevSecOpsSamples/athena-sqs-apigw) #aws
 - [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
 - [Pillow](https://pillow.app/) #health
 - [A Mock Service Worker API for Playwright](https://github.com/valendres/playwright-msw) #react
