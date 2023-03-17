@@ -1,3 +1,4 @@
+- [A Mock Service Worker API for Playwright](https://github.com/valendres/playwright-msw) #react
 - [Alibaba React Hooks library](https://github.com/alibaba/hooks) #react
 - [react-use: React Hooks](https://github.com/streamich/react-use) #react
 - [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
