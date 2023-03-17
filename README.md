@@ -1,3 +1,4 @@
+- [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
 - [Pillow](https://pillow.app/) #health
 - [A Mock Service Worker API for Playwright](https://github.com/valendres/playwright-msw) #react
 - [Alibaba React Hooks library](https://github.com/alibaba/hooks) #react
