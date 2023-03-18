@@ -1,3 +1,4 @@
+- [Reusable error boundary component](https://github.com/bvaughn/react-error-boundary) #react
 - [React and TypeScript - how to type hooks](https://devtrium.com/posts/react-typescript-how-to-type-hooks) #react
 - [AWS Prescriptive Guidance Patterns](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/welcome.html) #aws
 - [Workaround Athena concurrent query limit](https://github.com/DevSecOpsSamples/athena-sqs-apigw) #aws
