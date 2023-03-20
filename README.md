@@ -1,3 +1,4 @@
+- [AI Infrastructure-as-Code](https://github.com/gofireflyio/aiac) #hacks
 - [React skeletons](https://github.com/dvtng/react-loading-skeleton) #react
 - [Boring SVG avatars](https://github.com/boringdesigners/boring-avatars) #design
 - [Reusable error boundary component](https://github.com/bvaughn/react-error-boundary) #react
