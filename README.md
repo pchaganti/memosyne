@@ -1,3 +1,4 @@
+- [SVG heatmap](https://github.com/uiwjs/react-heat-map) #react
 - [React-back-to-top](https://github.com/uiwjs/react-back-to-top) #react
 - [Kubernetes IN Docker - local clusters](https://github.com/kubernetes-sigs/kind) #hacks
 - [AI Infrastructure-as-Code](https://github.com/gofireflyio/aiac) #hacks
