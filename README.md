@@ -1,6 +1,4 @@
-- [AI Infrastructure-as-Code](https://github.com/gofireflyio/aiac) #hacks
 - [FourTheorem/slic-watch](https://github.com/fourTheorem/slic-watch) #aws
-- [arrows between react components](https://github.com/Eliav2/react-xarrows) #react
 - [React hot toast](https://react-hot-toast.com/) #react
 - [distroless - language focused docker images, minus the OS](https://github.com/GoogleContainerTools/distroless) #hacks
 - [Apache Drill](https://drill.apache.org/) #hacks
