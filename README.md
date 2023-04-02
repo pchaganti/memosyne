@@ -1,3 +1,4 @@
+- [High performance (de)compression](https://github.com/101arrowz/fflate) #react
 - [FourTheorem/slic-watch](https://github.com/fourTheorem/slic-watch) #aws
 - [React hot toast](https://react-hot-toast.com/) #react
 - [distroless - language focused docker images, minus the OS](https://github.com/GoogleContainerTools/distroless) #hacks
