@@ -2,7 +2,6 @@
 - [FourTheorem/slic-watch](https://github.com/fourTheorem/slic-watch) #aws
 - [React hot toast](https://react-hot-toast.com/) #react
 - [distroless - language focused docker images, minus the OS](https://github.com/GoogleContainerTools/distroless) #hacks
-- [Apache Drill](https://drill.apache.org/) #hacks
 - [Normalized state management for async data](https://github.com/data-client/rest-hooks) #react
 - [SVG heatmap](https://github.com/uiwjs/react-heat-map) #react
 - [React-back-to-top](https://github.com/uiwjs/react-back-to-top) #react
@@ -25,11 +24,8 @@
 - [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) #design
 - [Hugo minimal with Ink](https://hugo-ink.netlify.app/) #design
 - [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
-- [PyAthena - Python DB API 2.0 (PEP 249) client for Amazon Athena.](https://github.com/laughingman7743/PyAthena) #aws
-- [KoteiIto/node-athena: a nodejs athena client](https://github.com/KoteiIto/node-athena) #aws
 - [AWS Security Analytics Bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) #aws
 - [Securing multi-tenant applications with AppSync and Cognito](https://theburningmonk.com/2021/03/how-to-secure-multi-tenant-applications-with-appsync-and-cognito/) #aws
-- [Athena-query - SQL queries in Athena](https://github.com/classmethod/athena-query) #aws
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Option Chains with matplotlib](https://jorgestutorials.com/optionchain.html) #finance
 - [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
