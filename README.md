@@ -1,3 +1,4 @@
+- [Lambda Warm-up on SST](https://sidoine.org/lambda-warm-up-on-sst-serverless-stack/) #aws
 - [Benthos - Fancy stream processing made operationally mundane](https://www.benthos.dev/) #hacks
 - [High performance (de)compression](https://github.com/101arrowz/fflate) #react
 - [FourTheorem/slic-watch](https://github.com/fourTheorem/slic-watch) #aws
