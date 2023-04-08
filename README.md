@@ -1,4 +1,4 @@
-- [Vector](https://vector.dev/) Vector - Building observability pipelines #hacks
+- [Vector - Building observability pipelines](https://vector.dev/) #hacks
 - [Tampering with User Attributes In Cognito User Pools](https://blog.doyensec.com/2023/01/24/tampering-unrestricted-user-attributes-aws-cognito.html) #aws
 - [Lambda Warm-up on SST](https://sidoine.org/lambda-warm-up-on-sst-serverless-stack/) #aws
 - [Benthos - Fancy stream processing made operationally mundane](https://www.benthos.dev/) #hacks
