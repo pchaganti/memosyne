@@ -21,10 +21,8 @@
 - [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
 - [Pillow](https://pillow.app/) #health
 - [A Mock Service Worker API for Playwright](https://github.com/valendres/playwright-msw) #react
-- [Alibaba React Hooks library](https://github.com/alibaba/hooks) #react
 - [react-use: React Hooks](https://github.com/streamich/react-use) #react
 - [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
-- [Excalidraw](https://plus.excalidraw.com/?ref=lapaninja) #design
 - [Boords](https://boords.com/?ref=lapaninja) #design
 - [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) #design
 - [Hugo minimal with Ink](https://hugo-ink.netlify.app/) #design
@@ -41,7 +39,6 @@
 - [Implementing Event Tracking Infra with CDK](https://eng.wealthfront.com/2022/12/14/implementing-event-tracking-infra-with-cdk/) #cdk
 - [Aws-prototyping-sdk - CDK and Projen constructs](https://github.com/aws/aws-prototyping-sdk) #cdk
 - [Fargate Clusters With LocalStack and CDK](https://blog.dennisokeeffe.com/blog/2021-08-11-deploying-a-fargate-cluster-with-localstack-and-the-aws-cdk) #cdk
-- [Advanced LocalStack features](https://github.com/localstack/localstack-pro-samples) #aws
 - [Curated GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
 - [ngrok - Online in One Line](https://ngrok.com/) #hacks
 - [Poline - Esoteric Color Palette Generation](https://meodai.github.io/poline/) #design
