@@ -1,3 +1,4 @@
+- [Dub: Open-source link shortener with built-in analytics](https://github.com/steven-tey/dub) #hacks
 - [Momento - Serverless caching](https://www.gomomento.com/) #hacks
 - [Vector - Building observability pipelines](https://vector.dev/) #hacks
 - [Tampering with User Attributes In Cognito User Pools](https://blog.doyensec.com/2023/01/24/tampering-unrestricted-user-attributes-aws-cognito.html) #aws
