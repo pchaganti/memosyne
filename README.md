@@ -1,3 +1,4 @@
+- [json-diff-kit: Differ and viewer](https://github.com/RexSkz/json-diff-kit) #hacks
 - [Dub: Open-source link shortener with built-in analytics](https://github.com/steven-tey/dub) #hacks
 - [Momento - Serverless caching](https://www.gomomento.com/) #hacks
 - [Vector - Building observability pipelines](https://vector.dev/) #hacks
