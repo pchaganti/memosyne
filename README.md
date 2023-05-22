@@ -1,3 +1,4 @@
+- [git_history_visualizer](https://github.com/kidpixo/git_history_visualizer) #hacks
 - [Legend-State : Fine-grained reactivity for minimal renders](/open-source/state/) #react
 - [Dyf tool for YAML files, and sometimes JSON](https://github.com/homeport/dyff) #hacks
 - [react-chrono: Modern Timeline Component](https://github.com/prabhuignoto/react-chrono) #react
