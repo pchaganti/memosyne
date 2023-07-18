@@ -1,3 +1,4 @@
+- [aws-fis-templates-cdk: Collection of AWS Fault Injection Simulator (FIS) experiment templates deployable via the AWS CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
 - [Mrsk: Deploy web apps anywhere](https://github.com/mrsked/mrsk) #hacks
 - [git_history_visualizer](https://github.com/kidpixo/git_history_visualizer) #hacks
 - [Legend-State : Fine-grained reactivity for minimal renders](/open-source/state/) #react
