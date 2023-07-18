@@ -1,3 +1,4 @@
+- [Chaos Engineering Platform for Kubernetes.](https://github.com/chaos-mesh/chaos-mesh) #chaos
 - [aws-fis-templates-cdk: Collection of AWS Fault Injection Simulator (FIS) experiment templates deployable via the AWS CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
 - [Mrsk: Deploy web apps anywhere](https://github.com/mrsked/mrsk) #hacks
 - [git_history_visualizer](https://github.com/kidpixo/git_history_visualizer) #hacks
