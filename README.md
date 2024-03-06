@@ -1,3 +1,4 @@
+- [Bulletpapers](https://www.bulletpapers.ai/) #hacks
 - [Misfits' Architecture](https://misfitsarchitecture.com/) #eclectic
 - [Chaos Engineering Platform for Kubernetes.](https://github.com/chaos-mesh/chaos-mesh) #chaos
 - [aws-fis-templates-cdk: Fault Injection Simulator (FIS) experiment templates via the CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
