@@ -24,9 +24,6 @@
 - [Pillow](https://pillow.app/) #health
 - [react-use: React Hooks](https://github.com/streamich/react-use) #react
 - [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
-- [Boords](https://boords.com/?ref=lapaninja) #design
-- [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) #design
-- [Hugo minimal with Ink](https://hugo-ink.netlify.app/) #design
 - [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
 - [AWS Security Analytics Bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) #aws
 - [Securing multi-tenant applications with AppSync and Cognito](https://theburningmonk.com/2021/03/how-to-secure-multi-tenant-applications-with-appsync-and-cognito/) #aws
