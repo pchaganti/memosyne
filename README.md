@@ -1,3 +1,4 @@
+- [PIXART-α:Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://pixart-alpha.github.io/) #ai
 - [kolodny/safetest](https://github.com/kolodny/safetest) Safetest #react
 - [Record and share your terminal sessions](https://asciinema.org/) #hacks
 - [Bulletpapers](https://www.bulletpapers.ai/) #hacks
