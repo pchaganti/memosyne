@@ -1,3 +1,4 @@
+- [GPT4All](https://gpt4all.io/index.html) Locally running, privacy-aware chatbot. No GPU or internet required. #ai
 - [Litellm : Call all LLM APIs using the OpenAI format](https://github.com/BerriAI/litellm) #ai
 - [PIXART-α:Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://pixart-alpha.github.io/) #ai
 - [kolodny/safetest](https://github.com/kolodny/safetest) Safetest #react
