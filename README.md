@@ -1,3 +1,4 @@
+- [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://mudler.pm/posts/localai-question-answering/) #ai
 - [kolodny/safetest](https://github.com/kolodny/safetest) Safetest #react
 - [Record and share your terminal sessions](https://asciinema.org/) #hacks
 - [Bulletpapers](https://www.bulletpapers.ai/) #hacks
