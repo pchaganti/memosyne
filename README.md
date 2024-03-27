@@ -1,3 +1,4 @@
+- [Background Noises • Ambient Sounds | myNoise ®](https://mynoise.net/index.php) #eclectic
 - [Ambiphone](https://ambiph.one/) #eclectic
 - [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://mudler.pm/posts/localai-question-answering/) #ai
 - [kolodny/safetest](https://github.com/kolodny/safetest) Safetest #react
