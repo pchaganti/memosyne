@@ -22,9 +22,7 @@
 - [Boring SVG avatars](https://github.com/boringdesigners/boring-avatars) #design
 - [Reusable error boundary component](https://github.com/bvaughn/react-error-boundary) #react
 - [React and TypeScript - how to type hooks](https://devtrium.com/posts/react-typescript-how-to-type-hooks) #react
-- [AWS Prescriptive Guidance Patterns](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/welcome.html) #aws
 - [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
-- [Pillow](https://pillow.app/) #health
 - [react-use: React Hooks](https://github.com/streamich/react-use) #react
 - [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
 - [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
@@ -33,9 +31,7 @@
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
 - [Optlib - Options pricing in Python](https://github.com/dbrojas/optlib) #finance
-- [OpenBB - Investment research for everyone](https://openbb.co/) #finance
 - [Smell, taste and feel when testing infrastructure](https://www.tecracer.com/blog/cdk-cit-part2a/) #cdk
-- [Aws-prototyping-sdk - CDK and Projen constructs](https://github.com/aws/aws-prototyping-sdk) #cdk
 - [Curated GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
 - [ngrok - Online in One Line](https://ngrok.com/) #hacks
 - [Poline - Esoteric Color Palette Generation](https://meodai.github.io/poline/) #design
