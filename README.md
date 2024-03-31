@@ -1,3 +1,4 @@
+- [Vue Energy Monitors](https://www.emporiaenergy.com/energy-monitors/) #eclectic
 - [Ambient Sounds](https://mynoise.net/index.php) #eclectic
 - [Ambiphone](https://ambiph.one/) #eclectic
 - [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://mudler.pm/posts/localai-question-answering/) #ai
