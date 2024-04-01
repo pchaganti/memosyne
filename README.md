@@ -1,3 +1,4 @@
+- [Observable framework](https://github.com/observablehq/framework) #hacks
 - [Vue Energy Monitors](https://www.emporiaenergy.com/energy-monitors/) #eclectic
 - [Ambient Sounds](https://mynoise.net/index.php) #eclectic
 - [Ambiphone](https://ambiph.one/) #eclectic
