@@ -1,4 +1,5 @@
 - [Fission : Fast and Simple Serverless Functions for Kubernetes](https://github.com/fission/fission) #kubernetes
+- [Fission : Fast and Simple Serverless Functions for Kubernetes](https://github.com/fission/fission) #kubernetes
 - [Observable framework](https://github.com/observablehq/framework) #hacks
 - [Vue Energy Monitors](https://www.emporiaenergy.com/energy-monitors/) #eclectic
 - [Ambient Sounds](https://mynoise.net/index.php) #eclectic
