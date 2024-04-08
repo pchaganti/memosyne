@@ -1,3 +1,4 @@
+- [Authelia : Open source authentication/authorization server and portal](/) #hacks
 - [Blocky: Fast and lightweight DNS proxy as ad-blocker](https://github.com/0xERR0R/blocky) #hacks
 - [Fission : Fast and Simple Serverless Functions for Kubernetes](https://github.com/fission/fission) #kubernetes
 - [Observable framework](https://github.com/observablehq/framework) #hacks
