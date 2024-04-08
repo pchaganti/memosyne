@@ -1,5 +1,4 @@
 - [Authelia : Open source authentication/authorization server and portal](https://www.authelia.com) #hacks
-- [Authelia : Open source authentication/authorization server and portal](/) #hacks
 - [Blocky: Fast and lightweight DNS proxy as ad-blocker](https://github.com/0xERR0R/blocky) #hacks
 - [Fission : Fast and Simple Serverless Functions for Kubernetes](https://github.com/fission/fission) #kubernetes
 - [Observable framework](https://github.com/observablehq/framework) #hacks
@@ -31,7 +30,6 @@
 - [react-use: React Hooks](https://github.com/streamich/react-use) #react
 - [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
 - [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
-- [AWS Security Analytics Bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) #aws
 - [Securing multi-tenant applications with AppSync and Cognito](https://theburningmonk.com/2021/03/how-to-secure-multi-tenant-applications-with-appsync-and-cognito/) #aws
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/) #design
 - [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
