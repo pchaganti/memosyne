@@ -20,8 +20,6 @@
 - [Tampering with User Attributes In Cognito User Pools](https://blog.doyensec.com/2023/01/24/tampering-unrestricted-user-attributes-aws-cognito.html) #aws
 - [Benthos - Fancy stream processing made operationally mundane](https://www.benthos.dev/) #hacks
 - [High performance (de)compression](https://github.com/101arrowz/fflate) #react
-- [distroless - language focused docker images, minus the OS](https://github.com/GoogleContainerTools/distroless) #hacks
-- [Kubernetes IN Docker - local clusters](https://github.com/kubernetes-sigs/kind) #hacks
 - [AI Infrastructure-as-Code](https://github.com/gofireflyio/aiac) #hacks
 - [React skeletons](https://github.com/dvtng/react-loading-skeleton) #react
 - [Boring SVG avatars](https://github.com/boringdesigners/boring-avatars) #design
