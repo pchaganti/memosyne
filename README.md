@@ -1,3 +1,4 @@
+- [DNSViz | A DNS visualization tool](https://dnsviz.net/) #hacks
 - [I Bonds History](http://eyebonds.info/ibonds/index.html) #finance
 - [Authelia : Open source authentication/authorization server and portal](https://www.authelia.com) #hacks
 - [Blocky: Fast and lightweight DNS proxy as ad-blocker](https://github.com/0xERR0R/blocky) #hacks
