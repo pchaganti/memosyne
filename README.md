@@ -1,3 +1,4 @@
+- [Hono - Ultrafast web framework for the Edges](https://hono.dev/) #hacks
 - [Phenomenal World](https://www.phenomenalworld.org/) #eclectic
 - [Fitzcarraldo Editions](https://fitzcarraldoeditions.com/) #biblio
 
