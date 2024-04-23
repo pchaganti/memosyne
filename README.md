@@ -1,3 +1,4 @@
+- [The Electric Vehicle Developmental State](https://www.phenomenalworld.org/analysis/byd/) #finance
 - [Industrial Policy Is a Good Idea, but So Far We Don’t Have One](https://www.ineteconomics.org/perspectives/blog/industrial-policy-is-a-good-idea-but-so-far-we-dont-have-one) #finance
 - [Hono - Ultrafast web framework for the Edges](https://hono.dev/) #hacks
 - [Phenomenal World](https://www.phenomenalworld.org/) #eclectic
