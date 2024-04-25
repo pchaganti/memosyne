@@ -25,7 +25,6 @@
 - [aws-fis-templates-cdk: Fault Injection Simulator (FIS) experiment templates via the CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
 - [Mrsk: Deploy web apps anywhere](https://github.com/mrsked/mrsk) #hacks
 - [Dyf tool for YAML files, and sometimes JSON](https://github.com/homeport/dyff) #hacks
-- [react-chrono: Modern Timeline Component](https://github.com/prabhuignoto/react-chrono) #react
 - [json-diff-kit: Differ and viewer](https://github.com/RexSkz/json-diff-kit) #hacks
 - [Dub: Open-source link shortener with built-in analytics](https://github.com/steven-tey/dub) #hacks
 - [Momento - Serverless caching](https://www.gomomento.com/) #hacks
