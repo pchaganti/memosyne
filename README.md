@@ -1,3 +1,4 @@
+- [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china) #finance
 - [Bare-metal Kubernetes](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/) #kubernetes
 - [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/) #eclectic
 - [Costs of War - Big Tech and Silicon Valley](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/2024/Silicon%20Valley%20MIC.pdf) #eclectic
