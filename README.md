@@ -1,3 +1,4 @@
+- [Avoid News - Dobelli](https://web.archive.org/web/20130117104220/http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf) #eclectic
 - [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china) #finance
 - [Bare-metal Kubernetes](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/) #kubernetes
 - [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/) #eclectic
