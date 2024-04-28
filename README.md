@@ -1,3 +1,4 @@
+- [A Russian teacher in America](https://faculty.utrgv.edu/eleftherios.gkioulekas/OGS/Misc/ARUSSIAN.PDF) #eclectic
 - [Avoid News - Dobelli](https://web.archive.org/web/20130117104220/http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf) #eclectic
 - [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china) #finance
 - [Bare-metal Kubernetes](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/) #kubernetes
