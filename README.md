@@ -1,3 +1,4 @@
+- [New Left Review](https://newleftreview.org/) #biblio
 - [Asterisk articles](https://asteriskmag.com/articles) #eclectic
 - [A Russian teacher in America](https://faculty.utrgv.edu/eleftherios.gkioulekas/OGS/Misc/ARUSSIAN.PDF) #eclectic
 - [Avoid News - Dobelli](https://web.archive.org/web/20130117104220/http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf) #eclectic
