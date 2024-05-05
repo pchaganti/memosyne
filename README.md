@@ -1,3 +1,4 @@
+- [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
 - [New Left Review](https://newleftreview.org/) #biblio
 - [Asterisk articles](https://asteriskmag.com/articles) #eclectic
 - [A Russian teacher in America](https://faculty.utrgv.edu/eleftherios.gkioulekas/OGS/Misc/ARUSSIAN.PDF) #eclectic
