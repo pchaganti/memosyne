@@ -1,3 +1,4 @@
+- [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/p/companies-graph-of-algorithms) #biblio
 - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet) #biblio
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
 - [New Left Review](https://newleftreview.org/) #biblio
