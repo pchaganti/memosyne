@@ -1,3 +1,4 @@
+- [Granta Magazine](https://granta.com/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [The New Atlantis](https://www.thenewatlantis.com/) #biblio
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
