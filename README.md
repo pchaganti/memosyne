@@ -3,7 +3,6 @@
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
 - [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china) #finance
 - [Bare-metal Kubernetes](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/) #kubernetes
-- [Costs of War - Big Tech and Silicon Valley](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/2024/Silicon%20Valley%20MIC.pdf) #eclectic
 - [The Electric Vehicle Developmental State](https://www.phenomenalworld.org/analysis/byd/) #finance
 - [Industrial Policy Is a Good Idea, but So Far We Don’t Have One](https://www.ineteconomics.org/perspectives/blog/industrial-policy-is-a-good-idea-but-so-far-we-dont-have-one) #finance
 - [Hono - Ultrafast web framework for the Edges](https://hono.dev/) #hacks
