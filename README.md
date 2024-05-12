@@ -1,3 +1,4 @@
+- [The Subversive Farmer](https://thesubversivefarmer.net/blog/cultivating-beauty) #biblio
 - [Granta Magazine](https://granta.com/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [The New Atlantis](https://www.thenewatlantis.com/) #biblio
