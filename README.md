@@ -1,7 +1,6 @@
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
-- [Forecasting China?](https://newleftreview.org/sidecar/posts/forecasting-china) #finance
 - [Bare-metal Kubernetes](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/) #kubernetes
 - [The Electric Vehicle Developmental State](https://www.phenomenalworld.org/analysis/byd/) #finance
 - [Industrial Policy Is a Good Idea, but So Far We Don’t Have One](https://www.ineteconomics.org/perspectives/blog/industrial-policy-is-a-good-idea-but-so-far-we-dont-have-one) #finance
@@ -11,7 +10,6 @@
 - [Killercoda](https://killercoda.com/playgrounds/) #kubernetes
 - [DNSViz : A DNS visualization tool](https://dnsviz.net/) #hacks
 - [I Bonds History](http://eyebonds.info/ibonds/index.html) #finance
-- [Authelia : Open source authentication/authorization server and portal](https://www.authelia.com) #hacks
 - [Blocky: Fast and lightweight DNS proxy as ad-blocker](https://github.com/0xERR0R/blocky) #hacks
 - [Fission : Fast and Simple Serverless Functions for Kubernetes](https://github.com/fission/fission) #kubernetes
 - [Observable framework](https://github.com/observablehq/framework) #hacks
@@ -22,7 +20,6 @@
 - [Record and share your terminal sessions](https://asciinema.org/) #hacks
 - [Bulletpapers](https://www.bulletpapers.ai/) #hacks
 - [Misfits' Architecture](https://misfitsarchitecture.com/) #eclectic
-- [Chaos Engineering Platform for Kubernetes.](https://github.com/chaos-mesh/chaos-mesh) #chaos
 - [aws-fis-templates-cdk: Fault Injection Simulator (FIS) experiment templates via the CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
 - [Mrsk: Deploy web apps anywhere](https://github.com/mrsked/mrsk) #hacks
 - [Dyf tool for YAML files, and sometimes JSON](https://github.com/homeport/dyff) #hacks
@@ -47,7 +44,6 @@
 - [Towards Open Options Chains](https://chrischow.github.io/dataandstuff/2022-01-13-open-options-chains-part-i/) #finance
 - [Optlib - Options pricing in Python](https://github.com/dbrojas/optlib) #finance
 - [Smell, taste and feel when testing infrastructure](https://www.tecracer.com/blog/cdk-cit-part2a/) #cdk
-- [Curated GitOps resources](https://github.com/weaveworks/awesome-gitops) #hacks
 - [ngrok - Online in One Line](https://ngrok.com/) #hacks
 - [Poline - Esoteric Color Palette Generation](https://meodai.github.io/poline/) #design
 - [Act - Run your GitHub Actions locally](https://github.com/nektos/act) #hacks
