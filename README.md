@@ -1,3 +1,4 @@
+- [Euphoria of the rentier](https://newleftreview.org/issues/ii129/articles/javier-moreno-zacares-euphoria-of-the-rentier.pdf) #biblio
 - [Finance Capitalism versus Industrial Capitalism: The Rentier Resurgence and Takeover](https://michael-hudson.com/wp-content/uploads/2021/07/04866134211011770.pdf) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
