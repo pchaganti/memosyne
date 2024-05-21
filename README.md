@@ -1,3 +1,4 @@
+- [The End of Lean Production... and What’s Ahead](https://labornotes.org/2024/05/end-lean-production-and-whats-ahead) #biblio
 - [New World Order?](https://www.phenomenalworld.org/analysis/new-world-order/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
