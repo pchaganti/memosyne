@@ -1,3 +1,4 @@
+- [What Produced the China Miracle?](https://foreignpolicy.com/2024/05/22/china-economic-rise-state-deng-xiaoping-history-beijing-state-future-demographics/) #biblio
 - [The City Journal](https://www.city-journal.org/the-magazine) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
