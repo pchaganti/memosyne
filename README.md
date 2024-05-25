@@ -1,3 +1,4 @@
+- [The City Journal](https://www.city-journal.org/the-magazine) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
