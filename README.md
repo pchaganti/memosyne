@@ -1,3 +1,4 @@
+- [Disneyland With the Death Penalty, Revisited](https://www.wired.com/2012/04/opinion-jeyaretnam-disneyland-death-penalty/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
