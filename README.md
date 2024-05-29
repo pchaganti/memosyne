@@ -1,3 +1,4 @@
+- [An Introduction To Auto-Callables](https://www.globalcapital.com/article/28mwscw1lroke9irbemf4/learning-curve/an-introduction-to-auto-callables) #biblio
 - [Masters of War](https://archive.ph/2024.05.25-045110/https://harpers.org/archive/2024/06/masters-of-war-letter-from-germany-thomas-meaney/) #biblio
 - [Repress U., Class of 2024](https://tomdispatch.com/repress-u-class-of-2024/) #biblio
 - [Disneyland With the Death Penalty, Revisited](https://www.wired.com/2012/04/opinion-jeyaretnam-disneyland-death-penalty/) #biblio
