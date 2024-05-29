@@ -1,3 +1,4 @@
+- [Repress U., Class of 2024](https://tomdispatch.com/repress-u-class-of-2024/) #biblio
 - [Disneyland With the Death Penalty, Revisited](https://www.wired.com/2012/04/opinion-jeyaretnam-disneyland-death-penalty/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
