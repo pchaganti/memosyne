@@ -1,3 +1,4 @@
+- [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/) #biblio
 - [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
