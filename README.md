@@ -1,3 +1,4 @@
+- [Melmoth the Wanderer](https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer) #biblio
 - [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/) #biblio
 - [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
