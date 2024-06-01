@@ -1,3 +1,4 @@
+- [The state of academic publishing in 3 graphs, 6 trends, and 4 thoughts](https://dynamicecology.wordpress.com/2024/04/29/the-state-of-academic-publishing-in-3-graphs-5-trends-and-4-thoughts/) #biblio
 - [Melmoth the Wanderer](https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer) #biblio
 - [Inside the Black Box](https://www.phenomenalworld.org/analysis/inside-the-black-box/) #biblio
 - [The Collapse Is Coming. Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/) #biblio
