@@ -1,3 +1,4 @@
+- [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
