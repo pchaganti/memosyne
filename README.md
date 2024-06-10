@@ -1,3 +1,4 @@
+- [Economic Termites Are Everywhere](https://www.thebignewsletter.com/p/economic-termites-are-everywhere) #biblio
 - [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
