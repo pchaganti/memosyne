@@ -1,3 +1,4 @@
+- [Semafor Technology](https://www.semafor.com/vertical/tech) #biblio
 - [Economic Termites Are Everywhere](https://www.thebignewsletter.com/p/economic-termites-are-everywhere) #biblio
 - [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
