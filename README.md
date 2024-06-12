@@ -1,7 +1,3 @@
-- [Why global GDP might be $7trn bigger than everyone thought](https://archive.ph/2024.06.11-022431/https://www.economist.com/finance-and-economics/2024/06/06/why-global-gdp-might-be-7trn-bigger-than-everyone-thought) #biblio
-- [Semafor Technology](https://www.semafor.com/vertical/tech) #biblio
-- [Economic Termites Are Everywhere](https://www.thebignewsletter.com/p/economic-termites-are-everywhere) #biblio
-- [Fate of Empires](https://people.uncw.edu/kozloffm/glubb.pdf) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
 - [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
