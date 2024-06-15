@@ -1,3 +1,4 @@
+- [Rest of World](https://restofworld.org/) #biblio
 - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower) #biblio
 - [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
