@@ -1,3 +1,4 @@
+- [A Foreign Policy for the World as It Is](https://www.foreignaffairs.com/united-states/biden-foreign-policy-world-rhodes) #biblio
 - [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/) #biblio
 - [The easy we make difficult, but it takes a long time.](https://mythfighter.com/2024/06/19/the-easy-we-make-difficult-but-it-takes-a-long-time/) #biblio
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4) #biblio
