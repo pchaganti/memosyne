@@ -1,3 +1,4 @@
+- [The most important speech of the decade?](https://www.thomasfazi.com/p/the-most-important-speech-of-the) #biblio
 - [Pere Portabella looks back | Sight & Sound](/news-opinion/sight-sound-magazine/interviews/pere-portabella-bunuel-lorca) #biblio
 - [The meaning of freedom and security](https://alexkrainer.substack.com/p/the-meaning-of-freedom-and-security) #biblio
 - [A Foreign Policy for the World as It Is](https://www.foreignaffairs.com/united-states/biden-foreign-policy-world-rhodes) #biblio
