@@ -1,3 +1,4 @@
+- [Failed US Economic Policies Lie Behind Current Geopolitical Tensions](https://roburie.substack.com/p/failed-us-economic-policies-lie-behind) #biblio
 - [Liberated ebooks](https://standardebooks.org) #eclectic
 - [Can Ai Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) #hacks
 - [EventBridge Transformer](https://eventbridge-transformer.vercel.app/) #aws
