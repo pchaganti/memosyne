@@ -1,3 +1,4 @@
+- [The quiet art of attention](https://billwear.github.io/art-of-attention.html) #biblio
 - [China’s real intent behind its stimulus inflection](https://www.ft.com/content/008443cd-bb44-4b4f-b60e-17894fdba221) #biblio
 - [Failed US Economic Policies Lie Behind Current Geopolitical Tensions](https://roburie.substack.com/p/failed-us-economic-policies-lie-behind) #biblio
 - [Liberated ebooks](https://standardebooks.org) #eclectic
