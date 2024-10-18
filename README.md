@@ -1,3 +1,4 @@
+- [Codebase Context Specification RFC](https://agenticinsights.substack.com/p/codebase-context-specification-rfc) #biblio
 - [It's hard to write code for computers, but it's even harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) #biblio
 - [The quiet art of attention](https://billwear.github.io/art-of-attention.html) #biblio
 - [China’s real intent behind its stimulus inflection](https://www.ft.com/content/008443cd-bb44-4b4f-b60e-17894fdba221) #biblio
