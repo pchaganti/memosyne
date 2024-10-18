@@ -1,3 +1,4 @@
+- [Poker Theory and Analytics MIT](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/video_galleries/lecture-videos/) #eclectic
 - [Codebase Context Specification RFC](https://agenticinsights.substack.com/p/codebase-context-specification-rfc) #biblio
 - [It's hard to write code for computers, but it's even harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) #biblio
 - [The quiet art of attention](https://billwear.github.io/art-of-attention.html) #biblio
