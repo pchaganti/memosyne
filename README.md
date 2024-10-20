@@ -1,3 +1,4 @@
+- [Guided Mental Models to Enhance Small LLM Reasoning](https://freedium.cfd/https://mychen76.medium.com/intuitive-thinker-introducing-guided-mental-models-to-enhance-small-llm-reasoning-13fd1b3dc353) #ai
 - [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) #hacks
 - [Poker Theory and Analytics MIT](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/video_galleries/lecture-videos/) #eclectic
 - [Codebase Context Specification RFC](https://agenticinsights.substack.com/p/codebase-context-specification-rfc) #biblio
