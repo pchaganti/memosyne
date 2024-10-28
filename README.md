@@ -1,3 +1,4 @@
+- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328) #ai
 - [NASA Bidara prompt engineering techniques](https://freedium.cfd/https://mychen76.medium.com/nasa-bidara-bot-inspired-prompt-engineering-techniques-74107e11a32e) #ai
 - [Guided Mental Models to Enhance Small LLM Reasoning](https://freedium.cfd/https://mychen76.medium.com/intuitive-thinker-introducing-guided-mental-models-to-enhance-small-llm-reasoning-13fd1b3dc353) #ai
 - [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) #hacks
