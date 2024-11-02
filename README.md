@@ -1,3 +1,4 @@
+- [Kotaemon](https://github.com/Cinnamon/kotaemon) #ai
 - [Multinational Production and Innovation in Tandem∗](https://www.freit.org/EIIT/2023/selected/liu.pdf) #biblio
 - [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/research/swe-bench-sonnet) #biblio
 - [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328) #ai
