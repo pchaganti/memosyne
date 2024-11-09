@@ -1,3 +1,4 @@
+- [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/abs/2310.16340) #biblio#ai
 - [GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension](https://arxiv.org/abs/2312.17294) #biblio#ai
 - [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) #biblio#ai
 - [Genaiscript - Automatable GenAI Scripting](https://github.com/microsoft/genaiscript) #ai
