@@ -1,3 +1,4 @@
+- [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) #biblio#ai
 - [Genaiscript - Automatable GenAI Scripting](https://github.com/microsoft/genaiscript) #ai
 - [Kotaemon](https://github.com/Cinnamon/kotaemon) #ai
 - [Multinational Production and Innovation in Tandem∗](https://www.freit.org/EIIT/2023/selected/liu.pdf) #biblio
