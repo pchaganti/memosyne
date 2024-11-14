@@ -1,3 +1,4 @@
+- [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/) #biblio
 - [Building and Debugging Multi-Agent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/AutoGen_Studio-12.pdf) #ai#biblio
 - [Programming Fonts - Test Drive](https://www.programmingfonts.org/) #eclectic
 - [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/abs/2310.16340) #biblio#ai
