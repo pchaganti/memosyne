@@ -1,3 +1,4 @@
+- [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/) #biblio
 - [Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/pdf/2310.02003) #ai#biblio
 - [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/) #biblio
 - [Building and Debugging Multi-Agent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/AutoGen_Studio-12.pdf) #ai#biblio
