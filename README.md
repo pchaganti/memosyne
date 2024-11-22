@@ -1,3 +1,4 @@
+- [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/) #biblio
 - [The Public Domain Review](https://publicdomainreview.org/) #biblio
 - [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/) #biblio
 - [Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/pdf/2310.02003) #ai#biblio
