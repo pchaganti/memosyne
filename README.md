@@ -1,3 +1,4 @@
+- [The Public Domain Review](https://publicdomainreview.org/) #biblio
 - [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/) #biblio
 - [Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/pdf/2310.02003) #ai#biblio
 - [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/) #biblio
