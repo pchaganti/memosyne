@@ -1,3 +1,4 @@
+- [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/pdf/2411.14405) #ai#biblio
 - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/) #biblio
 - [The Public Domain Review](https://publicdomainreview.org/) #biblio
 - [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/) #biblio
