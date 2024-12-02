@@ -1,3 +1,4 @@
+- [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81) #biblio
 - [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai#biblio
 - [Understanding Modern LLMs via DeepSeek](https://planetbanatt.net/articles/deepseek.html) #ai
 - [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/pdf/2411.14405) #ai#biblio
