@@ -1,0 +1,51 @@
+name: Sync Forks
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  sync-forks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest
+
+      - name: Sync forks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          node -e "
+            const { Octokit } = require('@octokit/rest');
+            const octokit = new Octokit({ auth: process.env.PERSONAL_ACCESS_TOKEN });
+
+            async function syncForks() {
+              try {
+                const { data: repos } = await octokit.repos.listForAuthenticatedUser({ type: 'forks', per_page: 100 });
+                
+                for (const repo of repos) {
+                  console.log(`Syncing fork: ${repo.full_name}`);
+                  await octokit.repos.mergeUpstream({
+                    owner: repo.owner.login,
+                    repo: repo.name,
+                    merge_ref: 'main',  // Adjust if your default branch is not 'main'
+                  }).catch(err => console.error(`Failed to sync ${repo.full_name}:`, err.message));
+                }
+              } catch (error) {
+                console.error('Error fetching forks:', error);
+              }
+            }
+
+            syncForks();
+          "
