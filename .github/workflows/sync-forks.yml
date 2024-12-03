@@ -21,30 +21,10 @@ jobs:
       - name: Install dependencies
         run: npm install @octokit/core @octokit/plugin-rest-endpoint-methods node-fetch
 
-      - name: Start SSH agent
-        run: |
-          echo "Starting SSH agent..."
-          eval "$(ssh-agent -s)"
-          echo "SSH agent started with PID $SSH_AGENT_PID"
-          echo "Adding SSH key..."
-
       - name: Add SSH key
-        run: |
-          mkdir -p ~/.ssh
-          echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-add ~/.ssh/id_rsa
-          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-
-      - name: Debug SSH Agent
-        run: |
-          ssh-add -l
-
-      - name: Test SSH Connection
-        run: |
-          ssh -T git@github.com
+        uses: webfactory/ssh-agent@v0.5.4
+        with:
+          ssh-private-keys: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Set Git user configuration
         run: |
