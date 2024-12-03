@@ -64,8 +64,8 @@
 
           // Clone the fork locally
           const forkDir = `/tmp/${repo.name}`;
-          const upstreamUrl = upstreamRepo.clone_url;
-          const forkUrl = repo.clone_url;
+          const upstreamUrl = `git@github.com:${upstreamRepo.full_name}.git`;
+          const forkUrl = `git@github.com:${repo.full_name}.git`;
 
           // Remove the directory if it exists
           await exec(`rm -rf ${forkDir}`);
