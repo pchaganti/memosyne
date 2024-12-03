@@ -19,9 +19,9 @@
       let perPage = 100;
       let repos = [];
 
-      // Fetch all forks
+      // Fetch all repositories
       while (true) {
-        const response = await octokit.request('GET /user/repos?type=forks&per_page={perPage}&page={page}', {
+        const response = await octokit.request('GET /user/repos?type=all&per_page={perPage}&page={page}', {
           perPage: perPage,
           page: page
         });
@@ -30,7 +30,10 @@
         page++;
       }
 
-      for (const repo of repos) {
+      // Filter only forks
+      const forks = repos.filter(repo => repo.fork);
+
+      for (const repo of forks) {
         console.log(`Syncing fork: ${repo.full_name}`);
         try {
           await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
