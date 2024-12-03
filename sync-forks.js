@@ -6,7 +6,7 @@
 
   const MyOctokit = Octokit.plugin(restEndpointMethods);
 
-  const octokit = new Octokit({
+  const octokit = new MyOctokit({
     auth: process.env.PERSONAL_ACCESS_TOKEN,
     request: {
       fetch: fetch
@@ -62,24 +62,27 @@
             continue;
           }
 
-          // Create a pull request from upstream to fork
-          const pullRequestResponse = await octokit.request('POST /repos/{owner}/{repo}/pulls', {
-            owner: repo.owner.login,
-            repo: repo.name,
-            title: 'Sync with upstream',
-            head: `${upstreamRepo.owner.login}:${upstreamRepo.default_branch}`,
-            base: repo.default_branch || 'main'  // Adjust if your default branch is not 'main'
-          });
+          // Clone the fork locally
+          const forkDir = `/tmp/${repo.name}`;
+          const upstreamUrl = upstreamRepo.clone_url;
+          const forkUrl = repo.clone_url;
 
-          const pullRequest = pullRequestResponse.data;
+          // Remove the directory if it exists
+          await exec(`rm -rf ${forkDir}`);
+          await exec(`mkdir -p ${forkDir}`);
+          process.chdir(forkDir);
 
-          // Merge the pull request
-          await octokit.request('PUT /repos/{owner}/{repo}/pulls/{pull_number}/merge', {
-            owner: repo.owner.login,
-            repo: repo.name,
-            pull_number: pullRequest.number,
-            commit_message: 'Merge upstream changes'
-          });
+          // Clone the fork
+          await exec(`git clone ${forkUrl} .`);
+          await exec(`git remote add upstream ${upstreamUrl}`);
+
+          // Fetch and merge upstream changes
+          await exec(`git fetch upstream`);
+          await exec(`git checkout main`);  // Adjust if your default branch is not 'main'
+          await exec(`git merge upstream/main --no-edit`);  // Adjust if your default branch is not 'main'
+
+          // Push changes back to the fork
+          await exec(`git push origin main`);  // Adjust if your default branch is not 'main`
 
           console.log(`Successfully synced ${repo.full_name}`);
         } catch (err) {
@@ -89,6 +92,19 @@
     } catch (error) {
       console.error('Error fetching forks:', error.message);
     }
+  }
+
+  function exec(command) {
+    return new Promise((resolve, reject) => {
+      const { exec: execCommand } = require('child_process');
+      execCommand(command, (error, stdout, stderr) => {
+        if (error) {
+          reject(new Error(`${stderr}`));
+        } else {
+          resolve(stdout);
+        }
+      });
+    });
   }
 
   syncForks();
