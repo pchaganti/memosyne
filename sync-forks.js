@@ -43,11 +43,36 @@
             repo: repo.name
           });
 
-          const upstreamRepo = upstreamResponse.data.upstream;
+          let upstreamRepo = upstreamResponse.data.upstream;
 
           if (!upstreamRepo) {
-            console.warn(`No upstream repository found for ${repo.full_name}`);
-            continue;
+            console.log(`No upstream repository found for ${repo.full_name}. Setting upstream...`);
+
+            // Try to find the original repository
+            try {
+              const originalRepoResponse = await octokit.request('GET /repos/{owner}/{repo}', {
+                owner: repo.parent.owner.login,
+                repo: repo.parent.name
+              });
+              upstreamRepo = originalRepoResponse.data;
+            } catch (err) {
+              console.error(`Failed to find original repository for ${repo.full_name}: ${err.message}`);
+              continue;
+            }
+
+            // Add the upstream repository
+            try {
+              await octokit.request('POST /repos/{owner}/{repo}/git/remotes', {
+                owner: repo.owner.login,
+                repo: repo.name,
+                name: 'upstream',
+                url: upstreamRepo.clone_url
+              });
+              console.log(`Upstream set for ${repo.full_name}`);
+            } catch (err) {
+              console.error(`Failed to set upstream for ${repo.full_name}: ${err.message}`);
+              continue;
+            }
           }
 
           // Create a pull request from upstream to fork
