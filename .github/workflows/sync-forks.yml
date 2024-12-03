@@ -21,6 +21,10 @@ jobs:
       - name: Install dependencies
         run: npm install @octokit/core @octokit/plugin-rest-endpoint-methods node-fetch
 
+      - name: Start SSH agent
+        run: |
+          eval "$(ssh-agent -s)"
+
       - name: Add SSH key
         run: |
           mkdir -p ~/.ssh
