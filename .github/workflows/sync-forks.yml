@@ -27,9 +27,9 @@ jobs:
         run: |
           node -e "
             (async () => {
-              const fetch = require('node-fetch');
               const { Octokit } = await import('@octokit/core');
               const { restEndpointMethods } = await import('@octokit/plugin-rest-endpoint-methods');
+              const fetch = await import('node-fetch').then(mod => mod.default);
 
               const MyOctokit = Octokit.plugin(restEndpointMethods);
 
