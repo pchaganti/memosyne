@@ -30,6 +30,20 @@
     }
   }
 
+  async function getDefaultBranch(owner, repoName) {
+    try {
+      const response = await octokit.request('GET /repos/{owner}/{repo}', {
+        owner: owner,
+        repo: repoName
+      });
+      const repoData = response.data;
+      return repoData.default_branch;
+    } catch (err) {
+      console.error(`Failed to fetch default branch for ${owner}/${repoName}: ${err.message}`);
+      return null;
+    }
+  }
+
   async function syncForks() {
     try {
       let page = 1;
@@ -62,6 +76,14 @@
             continue;
           }
 
+          // Get the default branch of the fork
+          const defaultBranch = await getDefaultBranch(repo.owner.login, repo.name);
+
+          if (!defaultBranch) {
+            console.warn(`Failed to determine default branch for ${repo.full_name}. Skipping sync.`);
+            continue;
+          }
+
           // Clone the fork locally
           const forkDir = `/tmp/${repo.name}`;
           const upstreamUrl = `git@github.com:${upstreamRepo.full_name}.git`;
@@ -78,11 +100,11 @@
 
           // Fetch and merge upstream changes
           await exec(`git fetch upstream`);
-          await exec(`git checkout main`);  // Adjust if your default branch is not 'main'
-          await exec(`git merge upstream/main --no-edit`);  // Adjust if your default branch is not 'main'
+          await exec(`git checkout ${defaultBranch}`);
+          await exec(`git merge upstream/${upstreamRepo.default_branch} --no-edit`);
 
           // Push changes back to the fork
-          await exec(`git push origin main`);  // Adjust if your default branch is not 'main`
+          await exec(`git push origin ${defaultBranch}`);
 
           console.log(`Successfully synced ${repo.full_name}`);
         } catch (err) {
