@@ -19,7 +19,7 @@ jobs:
           node-version: '16'
 
       - name: Install dependencies
-        run: npm install @octokit/core @octokit/plugin-rest-endpoint-methods
+        run: npm install @octokit/core @octokit/plugin-rest-endpoint-methods node-fetch
 
       - name: Sync forks
         env:
@@ -27,12 +27,18 @@ jobs:
         run: |
           node -e "
             (async () => {
+              const fetch = require('node-fetch');
               const { Octokit } = await import('@octokit/core');
               const { restEndpointMethods } = await import('@octokit/plugin-rest-endpoint-methods');
 
               const MyOctokit = Octokit.plugin(restEndpointMethods);
 
-              const octokit = new MyOctokit({ auth: process.env.PERSONAL_ACCESS_TOKEN });
+              const octokit = new MyOctokit({
+                auth: process.env.PERSONAL_ACCESS_TOKEN,
+                request: {
+                  fetch: fetch
+                }
+              });
 
               async function syncForks() {
                 try {
