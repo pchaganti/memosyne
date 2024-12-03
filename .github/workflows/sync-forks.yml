@@ -24,4 +24,4 @@ jobs:
       - name: Sync forks
         env:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: node sync-forks.js
+        run: node --experimental-modules sync-forks.js
