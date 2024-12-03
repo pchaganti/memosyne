@@ -35,12 +35,41 @@
 
       for (const repo of forks) {
         console.log(`Syncing fork: ${repo.full_name}`);
+
         try {
-          await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+          // Get the upstream repository information
+          const upstreamResponse = await octokit.request('GET /repos/{owner}/{repo}', {
+            owner: repo.owner.login,
+            repo: repo.name
+          });
+
+          const upstreamRepo = upstreamResponse.data.upstream;
+
+          if (!upstreamRepo) {
+            console.warn(`No upstream repository found for ${repo.full_name}`);
+            continue;
+          }
+
+          // Create a pull request from upstream to fork
+          const pullRequestResponse = await octokit.request('POST /repos/{owner}/{repo}/pulls', {
             owner: repo.owner.login,
             repo: repo.name,
-            merge_ref: 'main',  // Adjust if your default branch is not 'main'
+            title: 'Sync with upstream',
+            head: `${upstreamRepo.owner.login}:${upstreamRepo.default_branch}`,
+            base: repo.default_branch || 'main'  // Adjust if your default branch is not 'main'
           });
+
+          const pullRequest = pullRequestResponse.data;
+
+          // Merge the pull request
+          await octokit.request('PUT /repos/{owner}/{repo}/pulls/{pull_number}/merge', {
+            owner: repo.owner.login,
+            repo: repo.name,
+            pull_number: pullRequest.number,
+            commit_message: 'Merge upstream changes'
+          });
+
+          console.log(`Successfully synced ${repo.full_name}`);
         } catch (err) {
           console.error(`Failed to sync ${repo.full_name}: ${err.message}`);
         }
