@@ -13,6 +13,51 @@
     }
   });
 
+  async function getUpstreamFromDescription(repo) {
+    const description = repo.description.toLowerCase();
+    const regex = /upstream:\s*https:\/\/github\.com\/([^\/]+)\/([^\/]+)/;
+    const match = description.match(regex);
+    if (match) {
+      return { owner: match[1], name: match[2] };
+    }
+    return null;
+  }
+
+  async function getUpstreamFromTopics(repo) {
+    const topics = repo.topics || [];
+    for (const topic of topics) {
+      if (topic.startsWith('upstream:')) {
+        const parts = topic.split(':');
+        if (parts.length === 3) {
+          return { owner: parts[1], name: parts[2] };
+        }
+      }
+    }
+    return null;
+  }
+
+  async function findUpstreamRepository(repo) {
+    // Check if parent information is available
+    if (repo.parent) {
+      return repo.parent;
+    }
+
+    // Attempt to infer upstream from description
+    const upstreamFromDescription = await getUpstreamFromDescription(repo);
+    if (upstreamFromDescription) {
+      return upstreamFromDescription;
+    }
+
+    // Attempt to infer upstream from topics
+    const upstreamFromTopics = await getUpstreamFromTopics(repo);
+    if (upstreamFromTopics) {
+      return upstreamFromTopics;
+    }
+
+    // If all methods fail, return null
+    return null;
+  }
+
   async function syncForks() {
     try {
       let page = 1;
@@ -46,13 +91,25 @@
           let upstreamRepo = upstreamResponse.data.upstream;
 
           if (!upstreamRepo) {
-            console.log(`No upstream repository found for ${repo.full_name}. Checking parent information...`);
+            console.log(`No upstream repository found for ${repo.full_name}. Inferring upstream...`);
 
-            // Check if parent information is available
-            if (repo.parent) {
-              upstreamRepo = repo.parent;
-            } else {
-              console.warn(`Parent information missing for ${repo.full_name}. Skipping sync.`);
+            // Attempt to find the original repository
+            upstreamRepo = await findUpstreamRepository(repo);
+
+            if (!upstreamRepo) {
+              console.warn(`Failed to infer upstream repository for ${repo.full_name}. Skipping sync.`);
+              continue;
+            }
+
+            // Fetch the upstream repository details
+            try {
+              const upstreamDetailsResponse = await octokit.request('GET /repos/{owner}/{repo}', {
+                owner: upstreamRepo.owner,
+                repo: upstreamRepo.name
+              });
+              upstreamRepo = upstreamDetailsResponse.data;
+            } catch (err) {
+              console.error(`Failed to fetch upstream repository details for ${repo.full_name}: ${err.message}`);
               continue;
             }
           }
@@ -62,7 +119,7 @@
             owner: repo.owner.login,
             repo: repo.name,
             title: 'Sync with upstream',
-            head: `${upstreamRepo.owner.login}:${upine_repo.default_branch}`,
+            head: `${upstreamRepo.owner.login}:${upstreamRepo.default_branch}`,
             base: repo.default_branch || 'main'  // Adjust if your default branch is not 'main'
           });
 
