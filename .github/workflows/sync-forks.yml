@@ -24,19 +24,26 @@ jobs:
       - name: Start SSH agent
         run: |
           eval "$(ssh-agent -s)"
+          echo "SSH agent started with PID $SSH_AGENT_PID"
 
       - name: Add SSH key
         run: |
           mkdir -p ~/.ssh
-          echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+          echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-add ~/.ssh/id_rsa
           ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
+      - name: Debug SSH Agent
+        run: |
+          ssh-add -l
+
       - name: Set Git user configuration
         run: |
-          git config --global user.email "pchaganti@gmail.com"
-          git config --global user.name "Prabhakar Chaganti"
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
 
       - name: Sync forks
         env:
