@@ -1,3 +1,4 @@
+- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis) #biblio
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81) #biblio
 - [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai#biblio
 - [Understanding Modern LLMs via DeepSeek](https://planetbanatt.net/articles/deepseek.html) #ai
