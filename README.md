@@ -1,3 +1,4 @@
+- [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #ai#eclectic
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai#biblio
 - [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai#biblio
 - [What Is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/) #biblio
