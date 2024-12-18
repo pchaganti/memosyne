@@ -1,3 +1,4 @@
+- [Embedchain](https://embedchain.ai/) #ai
 - [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #ai#eclectic
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai#biblio
 - [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai#biblio
