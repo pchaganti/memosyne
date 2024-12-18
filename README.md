@@ -1,3 +1,4 @@
+- [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/) #biblio
 - [Embedchain](https://embedchain.ai/) #ai
 - [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #ai#eclectic
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai#biblio
