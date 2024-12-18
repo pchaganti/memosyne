@@ -1,3 +1,4 @@
+- [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai#biblio
 - [What Is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/) #biblio
 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis) #biblio
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81) #biblio
