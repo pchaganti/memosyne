@@ -2,7 +2,7 @@ name: Sync Forks
 
 on:
   schedule:
-    - cron: '10 */11 * * *'
+    - cron: '10 */8 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
