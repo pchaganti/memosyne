@@ -1,3 +1,4 @@
+- [Language Models A Guide for the Perplexed](https://arxiv.org/pdf/2311.17301) #ai
 - [Tell me of the book you seek but cannot name](https://en.app/) #eclectic
 - [Embedchain](https://embedchain.ai/) #ai
 - [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #ai#eclectic
