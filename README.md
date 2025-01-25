@@ -1,3 +1,4 @@
+- [CodeCoR](https://anonymous.4open.science/r/CodeCoR-3EFC/README.md) #ai
 - [Language Models A Guide for the Perplexed](https://arxiv.org/pdf/2311.17301) #ai
 - [Tell me of the book you seek but cannot name](https://en.app/) #eclectic
 - [Embedchain](https://embedchain.ai/) #ai
