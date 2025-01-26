@@ -1,3 +1,4 @@
+- [CopyCat](https://www.runcopycat.com/) #ai
 - [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #ai
 - [CodeCoR](https://anonymous.4open.science/r/CodeCoR-3EFC/README.md) #ai
 - [Language Models A Guide for the Perplexed](https://arxiv.org/pdf/2311.17301) #ai
