@@ -1,3 +1,4 @@
+- [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/) #biblio
 - [CopyCat](https://www.runcopycat.com/) #ai
 - [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #ai
 - [CodeCoR](https://anonymous.4open.science/r/CodeCoR-3EFC/README.md) #ai
