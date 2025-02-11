@@ -1,3 +1,4 @@
+- [DeepSeek crashes the AI Party: Story Break, Change or Shift?](https://aswathdamodaran.blogspot.com/2025/01/deepseek-crashes-ai-party-story-break.html) #biblio
 - [Oceanic Solitude: Brutalist Coastal Retreat](https://www.amazingarchitecture.com/visualization/oceanic-solitude-brutalist-coastal-retreat-by-monika-pancheva) #design
 - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/) #biblio
 - [CopyCat](https://www.runcopycat.com/) #ai
