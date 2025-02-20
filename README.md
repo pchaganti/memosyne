@@ -1,3 +1,4 @@
+- [Tilted Axis Press](https://www.tiltedaxispress.com/books) #biblio
 - [Daily Arxiv](https://www.haebom.dev/daily_arxiv?tl=en) #ai
 - [The Point](https://thepointmag.com/) #biblio
 - [Perspectives](https://www.ft.com/content/75c919d7-4013-463a-91ac-e2fae937f9b7) #newbooks
