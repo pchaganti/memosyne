@@ -1,3 +1,4 @@
+- [China’s leap in pharma](https://www.alexkesin.com/2025/02/chinas-leap-in-pharma-slow-and-fast.html) #biblio
 - [Tilted Axis Press](https://www.tiltedaxispress.com/books) #biblio
 - [Daily Arxiv](https://www.haebom.dev/daily_arxiv?tl=en) #ai
 - [The Point](https://thepointmag.com/) #biblio
