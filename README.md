@@ -1,3 +1,4 @@
+- [The Six Levels of Agentic Behavior](https://www.vellum.ai/blog/levels-of-agentic-behavior) #ai
 - [You are using Cursor AI incorrectly](https://ghuntley.com/stdlib/) #ai
 - [Agentic AI and the MCP Ecosystem](https://block.github.io/goose/blog/2025/02/17/agentic-ai-mcp/) #ai
 - [China’s leap in pharma](https://www.alexkesin.com/2025/02/chinas-leap-in-pharma-slow-and-fast.html) #biblio
