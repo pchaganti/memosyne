@@ -1,3 +1,4 @@
+- [When Finance Feeds on Itself](https://americanaffairsjournal.org/2025/02/from-investment-to-savings-when-finance-feeds-on-itself/) #biblio
 - [The Six Levels of Agentic Behavior](https://www.vellum.ai/blog/levels-of-agentic-behavior) #ai
 - [You are using Cursor AI incorrectly](https://ghuntley.com/stdlib/) #ai
 - [Agentic AI and the MCP Ecosystem](https://block.github.io/goose/blog/2025/02/17/agentic-ai-mcp/) #ai
