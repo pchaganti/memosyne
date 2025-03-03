@@ -1,3 +1,4 @@
+- [Groundhog assistant](https://ghuntley.com/specs/) #ai
 - [RA.Aid's Journey From Leveraging Aider to Autonomous Editing](/posts/raaid-journey/) #ai
 - [When Finance Feeds on Itself](https://americanaffairsjournal.org/2025/02/from-investment-to-savings-when-finance-feeds-on-itself/) #biblio
 - [The Six Levels of Agentic Behavior](https://www.vellum.ai/blog/levels-of-agentic-behavior) #ai
