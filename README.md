@@ -1,3 +1,4 @@
+- [The Silicon Valley Consensus and AI Capex ](https://thetechbubble.substack.com/p/the-silicon-valley-consensus-and) #biblio
 - [Groundhog assistant](https://ghuntley.com/specs/) #ai
 - [RA.Aid's Journey From Leveraging Aider to Autonomous Editing](/posts/raaid-journey/) #ai
 - [When Finance Feeds on Itself](https://americanaffairsjournal.org/2025/02/from-investment-to-savings-when-finance-feeds-on-itself/) #biblio
