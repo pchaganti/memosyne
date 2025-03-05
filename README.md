@@ -1,3 +1,4 @@
+- [The Everything Bubble](https://www.deepvalueinsights.com/p/the-everything-bubble) #biblio
 - [The Silicon Valley Consensus and AI Capex ](https://thetechbubble.substack.com/p/the-silicon-valley-consensus-and) #biblio
 - [Groundhog assistant](https://ghuntley.com/specs/) #ai
 - [RA.Aid's Journey From Leveraging Aider to Autonomous Editing](/posts/raaid-journey/) #ai
