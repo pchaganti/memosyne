@@ -1,3 +1,4 @@
+- [agentic workflow to rule them all](https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/) #ai
 - [The Quiet Coup](https://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/) #biblio
 - [The Everything Bubble](https://www.deepvalueinsights.com/p/the-everything-bubble) #biblio
 - [The Silicon Valley Consensus and AI Capex ](https://thetechbubble.substack.com/p/the-silicon-valley-consensus-and) #biblio
