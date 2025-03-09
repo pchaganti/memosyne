@@ -1,3 +1,4 @@
+- [What Are Agentic Workflows](https://weaviate.io/blog/what-are-agentic-workflows) #ai
 - [12 Days of EXO](https://blog.exolabs.net) #ai
 - [Just how big is China’s AI market?](https://www.exponentialview.co/p/just-how-big-is-chinas-ai-market) #biblio
 - [agentic workflow to rule them all](https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/) #ai
