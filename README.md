@@ -1,3 +1,4 @@
+- [12 Days of EXO](https://blog.exolabs.net) #ai
 - [Just how big is China’s AI market?](https://www.exponentialview.co/p/just-how-big-is-chinas-ai-market) #biblio
 - [agentic workflow to rule them all](https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/) #ai
 - [The Quiet Coup](https://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/) #biblio
