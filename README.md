@@ -1,3 +1,4 @@
+- [GitHub Explorer ](https://gh-explorer.com/) #hacks
 - [Building an Agentic System ](https://gerred.github.io/building-an-agentic-system/index.html) #ai
 - [What Are Agentic Workflows](https://weaviate.io/blog/what-are-agentic-workflows) #ai
 - [12 Days of EXO](https://blog.exolabs.net) #ai
