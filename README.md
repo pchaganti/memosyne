@@ -1,3 +1,4 @@
+- [America Is Missing The New Labor Economy](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/) #biblio
 - [Two sessions China](https://thenextrecession.wordpress.com/2025/03/08/two-sessions-china/) #biblio
 - [GitHub Explorer ](https://gh-explorer.com/) #hacks
 - [Building an Agentic System ](https://gerred.github.io/building-an-agentic-system/index.html) #ai
