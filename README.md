@@ -1,3 +1,4 @@
+- [Building an Agentic System](https://gerred.github.io/building-an-agentic-system/) #ai
 - [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-term=agent&terms-0-operator=AND&terms-0-field=abstract&terms-1-term=available&terms-1-operator=AND&terms-1-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2025&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) #ai
 - [Works in Progress](https://worksinprogress.co/) #biblio
 - [America Is Missing The New Labor Economy](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/) #biblio
