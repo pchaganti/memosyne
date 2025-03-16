@@ -1,3 +1,4 @@
+- [cursor workflows](https://blog.sshh.io/p/how-cursor-ai-ide-works) #ai
 - [LLM workflows](https://www.phillipcarter.dev/posts/coding-with-llms) #ai
 - [Gridding](https://watercolorpainting.com/blog/2024/02/29/gridding-to-the-rescue-your-tools-for-practicing-watercolor-painting) #painting
 - [Changes in brain’s ‘sugar shield’ could be key to understanding effects of aging](https://news.stanford.edu/stories/2025/02/study-links-the-sugars-on-cell-surfaces-to-brain-resilience) #eclectic
