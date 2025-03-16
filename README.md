@@ -1,3 +1,4 @@
+- [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/) #ai
 - [workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #ai
 - [mise-en-place](https://mise.jdx.dev/) #hacks
 - [mise-en-place](https://mise.jdx.dev/) #hacks
