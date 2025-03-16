@@ -1,3 +1,4 @@
+- [Changes in brain’s ‘sugar shield’ could be key to understanding effects of aging](https://news.stanford.edu/stories/2025/02/study-links-the-sugars-on-cell-surfaces-to-brain-resilience) #eclectic
 - [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/) #ai
 - [workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #ai
 - [mise-en-place](https://mise.jdx.dev/) #hacks
