@@ -1,3 +1,4 @@
+- [mise-en-place](https://mise.jdx.dev/) #hacks
 - [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=agent&terms-0-field=abstract&terms-1-operator=AND&terms-1-term=available&terms-1-field=abstract&terms-2-operator=AND&terms-2-term=github&terms-2-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2025&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) #ai
 - [Home Assistant](https://www.home-assistant.io/) #hacks
 - [Works in Progress](https://worksinprogress.co/) #biblio
