@@ -1,3 +1,4 @@
+- [Local LLM fine-tuning with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) #ai
 - [The Ultimate Guide to Fine-Tuning LLMs](https://arxiv.org/html/2408.13296v1) #ai
 - [How Bauhaus Redefined What Design Could Do for Society](https://www.nytimes.com/2019/02/04/t-magazine/bauhaus-school-architecture-history.html) #design
 - [The Man Who Built the Bauhaus](https://www.newyorker.com/magazine/2019/04/29/the-man-who-built-the-bauhaus) #design
