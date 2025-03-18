@@ -1,3 +1,4 @@
+- [The Man Who Built the Bauhaus](https://www.newyorker.com/magazine/2019/04/29/the-man-who-built-the-bauhaus) #design
 - [The Harsh Truth About AI Startups](https://engrlog.substack.com/p/the-harsh-truth-about-ai-startups) #ai
 - [Build Your Own GitHub Copilot](https://prvn.sh/build-your-own-github-copilot/) #ai
 - [How to Fine-Tune Large Language Models](//www.alibabacloud.com/blog/how-to-fine-tune-large-language-models_601918) #ai
