@@ -1,3 +1,4 @@
+- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure) #biblio
 - [The Context Gap](https://everything.intellectronica.net/p/the-context-gap) #ai
 - [Local LLM fine-tuning with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) #ai
 - [The Ultimate Guide to Fine-Tuning LLMs](https://arxiv.org/html/2408.13296v1) #ai
