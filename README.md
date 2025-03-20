@@ -1,3 +1,4 @@
+- [The Value of Nothing Capital versus Growth](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/) #biblio
 - [LLM Agents are simply Graph](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial) #ai
 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure) #biblio
 - [The Context Gap](https://everything.intellectronica.net/p/the-context-gap) #ai
