@@ -1,3 +1,4 @@
+- [If AI Is Ramanujan, Who Is Hardy?](https://manidoraisamy.com/developer-forever/post/if-ai-is-ramanujan-who-is-hardy.anc-9dc525e6-688d-4c67-9e40-8070f9a45f57.html) #ai
 - [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) #ai
 - [Reverse agent](https://github.com/kpenfound/greetings-api/blob/main/SWE_AGENT.md) #ai
 - [The Value of Nothing Capital versus Growth](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/) #biblio
