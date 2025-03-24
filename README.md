@@ -1,3 +1,4 @@
+- [Build AI Agent Memory From Scratch](https://zacharyhuang.substack.com/p/build-ai-agent-memory-from-scratch) #ai
 - [The Quantum Apocalypse Is Coming](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/) #biblio
 - [An Ordinary Analogy to Understand Pre-Training, Test-Time Compute, Inference](https://interconnect.substack.com/p/an-ordinary-analogy-to-understand) #ai
 - [If AI Is Ramanujan, Who Is Hardy?](https://manidoraisamy.com/developer-forever/post/if-ai-is-ramanujan-who-is-hardy.anc-9dc525e6-688d-4c67-9e40-8070f9a45f57.html) #ai
