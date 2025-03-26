@@ -1,3 +1,4 @@
+- [How to Outline and Plan a Novel](https://blog.nateliason.com/p/how-to-outline-and-plan-a-novel) #eclectic
 - [The modern AI workspace](https://handyai.substack.com/p/the-modern-ai-workspace) #ai
 - [Calling MCP Servers the Hard Way](/2025/03/calling-mcp-servers-the-hard-way.html) #ai
 - [Build AI Agent Memory From Scratch](https://zacharyhuang.substack.com/p/build-ai-agent-memory-from-scratch) #ai
