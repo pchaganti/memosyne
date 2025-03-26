@@ -1,3 +1,4 @@
+- [The modern AI workspace](https://handyai.substack.com/p/the-modern-ai-workspace) #ai
 - [Calling MCP Servers the Hard Way](/2025/03/calling-mcp-servers-the-hard-way.html) #ai
 - [Build AI Agent Memory From Scratch](https://zacharyhuang.substack.com/p/build-ai-agent-memory-from-scratch) #ai
 - [The Quantum Apocalypse Is Coming](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/) #biblio
