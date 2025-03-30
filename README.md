@@ -1,3 +1,4 @@
+- [How LLMs think differently](https://thinkingaboutbehavior.substack.com/p/how-llms-think-differently) #ai
 - [Fed Urged to Mull a Hedge Fund Bailout Facility for Basis Trades](https://www.bloomberg.com/news/articles/2025-03-27/fed-urged-to-mull-a-hedge-fund-bailout-facility-for-basis-trades) #biblio
 - [Pointer](https://www.trypointer.com/) #ai
 - [How to Outline and Plan a Novel](https://blog.nateliason.com/p/how-to-outline-and-plan-a-novel) #eclectic
