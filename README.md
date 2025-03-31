@@ -1,77 +1,71 @@
-- [How LLMs think differently](https://thinkingaboutbehavior.substack.com/p/how-llms-think-differently) #ai
+- [How LLMs think differently](https://thinkingaboutbehavior.substack.com/p/how-llms-think-differently) #neuron
 - [Fed Urged to Mull a Hedge Fund Bailout Facility for Basis Trades](https://www.bloomberg.com/news/articles/2025-03-27/fed-urged-to-mull-a-hedge-fund-bailout-facility-for-basis-trades) #biblio
-- [Pointer](https://www.trypointer.com/) #ai
+- [Pointer](https://www.trypointer.com/) #neuron
 - [How to Outline and Plan a Novel](https://blog.nateliason.com/p/how-to-outline-and-plan-a-novel) #eclectic
-- [The modern AI workspace](https://handyai.substack.com/p/the-modern-ai-workspace) #ai
-- [Calling MCP Servers the Hard Way](/2025/03/calling-mcp-servers-the-hard-way.html) #ai
-- [Build AI Agent Memory From Scratch](https://zacharyhuang.substack.com/p/build-ai-agent-memory-from-scratch) #ai
+- [The modern AI workspace](https://handyai.substack.com/p/the-modern-ai-workspace) #neuron
+- [Calling MCP Servers the Hard Way](/2025/03/calling-mcp-servers-the-hard-way.html) #neuron
+- [Build AI Agent Memory From Scratch](https://zacharyhuang.substack.com/p/build-ai-agent-memory-from-scratch) #neuron
 - [The Quantum Apocalypse Is Coming](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/) #biblio
-- [An Ordinary Analogy to Understand Pre-Training, Test-Time Compute, Inference](https://interconnect.substack.com/p/an-ordinary-analogy-to-understand) #ai
-- [If AI Is Ramanujan, Who Is Hardy?](https://manidoraisamy.com/developer-forever/post/if-ai-is-ramanujan-who-is-hardy.anc-9dc525e6-688d-4c67-9e40-8070f9a45f57.html) #ai
-- [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) #ai
-- [Reverse agent](https://github.com/kpenfound/greetings-api/blob/main/SWE_AGENT.md) #ai
+- [An Ordinary Analogy to Understand Pre-Training, Test-Time Compute, Inference](https://interconnect.substack.com/p/an-ordinary-analogy-to-understand) #neuron
+- [If AI Is Ramanujan, Who Is Hardy?](https://manidoraisamy.com/developer-forever/post/if-ai-is-ramanujan-who-is-hardy.anc-9dc525e6-688d-4c67-9e40-8070f9a45f57.html) #neuron
+- [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) #neuron
+- [Reverse agent](https://github.com/kpenfound/greetings-api/blob/main/SWE_AGENT.md) #neuron
 - [The Value of Nothing Capital versus Growth](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/) #biblio
-- [LLM Agents are simply Graph](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial) #ai
+- [LLM Agents are simply Graph](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial) #neuron
 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure) #biblio
-- [The Context Gap](https://everything.intellectronica.net/p/the-context-gap) #ai
-- [Local LLM fine-tuning with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) #ai
-- [The Ultimate Guide to Fine-Tuning LLMs](https://arxiv.org/html/2408.13296v1) #ai
+- [The Context Gap](https://everything.intellectronica.net/p/the-context-gap) #neuron
+- [Local LLM fine-tuning with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) #neuron
+- [The Ultimate Guide to Fine-Tuning LLMs](https://arxiv.org/html/2408.13296v1) #neuron
 - [How Bauhaus Redefined What Design Could Do for Society](https://www.nytimes.com/2019/02/04/t-magazine/bauhaus-school-architecture-history.html) #design
 - [The Man Who Built the Bauhaus](https://www.newyorker.com/magazine/2019/04/29/the-man-who-built-the-bauhaus) #design
-- [The Harsh Truth About AI Startups](https://engrlog.substack.com/p/the-harsh-truth-about-ai-startups) #ai
-- [Build Your Own GitHub Copilot](https://prvn.sh/build-your-own-github-copilot/) #ai
-- [How to Fine-Tune Large Language Models](//www.alibabacloud.com/blog/how-to-fine-tune-large-language-models_601918) #ai
+- [The Harsh Truth About AI Startups](https://engrlog.substack.com/p/the-harsh-truth-about-ai-startups) #neuron
+- [Build Your Own GitHub Copilot](https://prvn.sh/build-your-own-github-copilot/) #neuron
 - [Ehagaki](https://www.ehagaki.jp/) #eclectic
-- [cursor workflows](https://blog.sshh.io/p/how-cursor-ai-ide-works) #ai
-- [LLM workflows](https://www.phillipcarter.dev/posts/coding-with-llms) #ai
-- [Gridding](https://watercolorpainting.com/blog/2024/02/29/gridding-to-the-rescue-your-tools-for-practicing-watercolor-painting) #painting
+- [cursor workflows](https://blog.sshh.io/p/how-cursor-ai-ide-works) #neuron
+- [LLM workflows](https://www.phillipcarter.dev/posts/coding-with-llms) #neuron
+- [Gridding](https://watercolorpainting.com/blog/2024/02/29/gridding-to-the-rescue-your-tools-for-practicing-watercolor-painting) #art
 - [Changes in brain’s ‘sugar shield’ could be key to understanding effects of aging](https://news.stanford.edu/stories/2025/02/study-links-the-sugars-on-cell-surfaces-to-brain-resilience) #eclectic
-- [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/) #ai
-- [workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #ai
-- [mise-en-place](https://mise.jdx.dev/) #hacks
-- [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=agent&terms-0-field=abstract&terms-1-operator=AND&terms-1-term=available&terms-1-field=abstract&terms-2-operator=AND&terms-2-term=github&terms-2-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2025&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) #ai
-- [Home Assistant](https://www.home-assistant.io/) #hacks
+- [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/) #neuron
+- [workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #neuron
+- [mise-en-place](https://mise.jdx.dev/) #code
+- [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=agent&terms-0-field=abstract&terms-1-operator=AND&terms-1-term=available&terms-1-field=abstract&terms-2-operator=AND&terms-2-term=github&terms-2-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2025&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) #neuron
+- [Home Assistant](https://www.home-assistant.io/) #code
 - [Works in Progress](https://worksinprogress.co/) #biblio
 - [America Is Missing The New Labor Economy](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/) #biblio
 - [Two sessions China](https://thenextrecession.wordpress.com/2025/03/08/two-sessions-china/) #biblio
-- [GitHub Explorer ](https://gh-explorer.com/) #hacks
-- [Building an Agentic System ](https://gerred.github.io/building-an-agentic-system/index.html) #ai
-- [What Are Agentic Workflows](https://weaviate.io/blog/what-are-agentic-workflows) #ai
-- [12 Days of EXO](https://blog.exolabs.net) #ai
+- [GitHub Explorer ](https://gh-explorer.com/) #code
+- [Building an Agentic System ](https://gerred.github.io/building-an-agentic-system/index.html) #neuron
+- [What Are Agentic Workflows](https://weaviate.io/blog/what-are-agentic-workflows) #neuron
+- [12 Days of EXO](https://blog.exolabs.net) #neuron
 - [Just how big is China’s AI market?](https://www.exponentialview.co/p/just-how-big-is-chinas-ai-market) #biblio
-- [agentic workflow to rule them all](https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/) #ai
+- [agentic workflow to rule them all](https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/) #neuron
 - [The Quiet Coup](https://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/307364/) #biblio
 - [The Everything Bubble](https://www.deepvalueinsights.com/p/the-everything-bubble) #biblio
 - [The Silicon Valley Consensus and AI Capex ](https://thetechbubble.substack.com/p/the-silicon-valley-consensus-and) #biblio
-- [Groundhog assistant](https://ghuntley.com/specs/) #ai
-- [RA.Aid's Journey From Leveraging Aider to Autonomous Editing](/posts/raaid-journey/) #ai
+- [Groundhog assistant](https://ghuntley.com/specs/) #neuron
+- [RA.Aid's Journey From Leveraging Aider to Autonomous Editing](/posts/raaid-journey/) #neuron
 - [When Finance Feeds on Itself](https://americanaffairsjournal.org/2025/02/from-investment-to-savings-when-finance-feeds-on-itself/) #biblio
-- [The Six Levels of Agentic Behavior](https://www.vellum.ai/blog/levels-of-agentic-behavior) #ai
-- [You are using Cursor AI incorrectly](https://ghuntley.com/stdlib/) #ai
-- [Agentic AI and the MCP Ecosystem](https://block.github.io/goose/blog/2025/02/17/agentic-ai-mcp/) #ai
+- [The Six Levels of Agentic Behavior](https://www.vellum.ai/blog/levels-of-agentic-behavior) #neuron
+- [You are using Cursor AI incorrectly](https://ghuntley.com/stdlib/) #neuron
+- [Agentic AI and the MCP Ecosystem](https://block.github.io/goose/blog/2025/02/17/agentic-ai-mcp/) #neuron
 - [China’s leap in pharma](https://www.alexkesin.com/2025/02/chinas-leap-in-pharma-slow-and-fast.html) #biblio
 - [Tilted Axis Press](https://www.tiltedaxispress.com/books) #biblio
-- [Daily Arxiv](https://www.haebom.dev/daily_arxiv?tl=en) #ai
+- [Daily Arxiv](https://www.haebom.dev/daily_arxiv?tl=en) #neuron
 - [The Point](https://thepointmag.com/) #biblio
-- [DeepSeek crashes the AI Party: Story Break, Change or Shift?](https://aswathdamodaran.blogspot.com/2025/01/deepseek-crashes-ai-party-story-break.html) #biblio
-- [Oceanic Solitude: Brutalist Coastal Retreat](https://www.amazingarchitecture.com/visualization/oceanic-solitude-brutalist-coastal-retreat-by-monika-pancheva) #design
+- [DeepSeek crashes the AI Party: Story Break, Change or Shift?](https://aswathdamodaran.blogspot.com/2025/01/deepseek-crashes-ai-party-story-break.html) #finance
 - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/) #biblio
-- [CopyCat](https://www.runcopycat.com/) #ai
-- [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #ai
-- [CodeCoR](https://anonymous.4open.science/r/CodeCoR-3EFC/README.md) #ai
-- [Language Models A Guide for the Perplexed](https://arxiv.org/pdf/2311.17301) #ai
+- [CopyCat](https://www.runcopycat.com/) #neuron
+- [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #neuron
+- [CodeCoR](https://anonymous.4open.science/r/CodeCoR-3EFC/README.md) #neuron
+- [Language Models A Guide for the Perplexed](https://arxiv.org/pdf/2311.17301) #neuron
 - [Tell me of the book you seek but cannot name](https://en.app/) #eclectic
-- [Embedchain](https://embedchain.ai/) #ai
-- [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #ai#eclectic
-- [Understanding Modern LLMs via DeepSeek](https://planetbanatt.net/articles/deepseek.html) #ai
-- [Genaiscript - Automatable GenAI Scripting](https://github.com/microsoft/genaiscript) #ai
-- [Kotaemon](https://github.com/Cinnamon/kotaemon) #ai
+- [Phenofuse - Hybrid Creature Generation](https://phenofuse.io/) #neuron#eclectic
+- [Understanding Modern LLMs via DeepSeek](https://planetbanatt.net/articles/deepseek.html) #neuron
 - [Multinational Production and Innovation in Tandem∗](https://www.freit.org/EIIT/2023/selected/liu.pdf) #biblio
-- [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/research/swe-bench-sonnet) #biblio
-- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328) #ai
-- [NASA Bidara prompt engineering techniques](https://freedium.cfd/https://mychen76.medium.com/nasa-bidara-bot-inspired-prompt-engineering-techniques-74107e11a32e) #ai
-- [Guided Mental Models to Enhance Small LLM Reasoning](https://freedium.cfd/https://mychen76.medium.com/intuitive-thinker-introducing-guided-mental-models-to-enhance-small-llm-reasoning-13fd1b3dc353) #ai
-- [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) #hacks
+- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328) #neuron
+- [NASA Bidara prompt engineering techniques](https://freedium.cfd/https://mychen76.medium.com/nasa-bidara-bot-inspired-prompt-engineering-techniques-74107e11a32e) #neuron
+- [Guided Mental Models to Enhance Small LLM Reasoning](https://freedium.cfd/https://mychen76.medium.com/intuitive-thinker-introducing-guided-mental-models-to-enhance-small-llm-reasoning-13fd1b3dc353) #neuron
+- [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) #code
 - [Poker Theory and Analytics MIT](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/video_galleries/lecture-videos/) #eclectic
 - [Codebase Context Specification RFC](https://agenticinsights.substack.com/p/codebase-context-specification-rfc) #biblio
 - [It's hard to write code for computers, but it's even harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) #biblio
@@ -79,66 +73,34 @@
 - [China’s real intent behind its stimulus inflection](https://www.ft.com/content/008443cd-bb44-4b4f-b60e-17894fdba221) #biblio
 - [Failed US Economic Policies Lie Behind Current Geopolitical Tensions](https://roburie.substack.com/p/failed-us-economic-policies-lie-behind) #biblio
 - [Liberated ebooks](https://standardebooks.org) #eclectic
-- [Can Ai Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) #hacks
-- [Archive - vRelevant](https://vrelevant.net/archive/) #hacks
+- [Can Ai Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) #code
+- [Archive - vRelevant](https://vrelevant.net/archive/) #code
 - [Starting Strength](https://www.athlegan.com/starting-strength) #eclectic
-- [Engineering Blogs](https://engineeringblogs.xyz/) #eclectic
 - [The Electric Vehicle Developmental State](https://www.phenomenalworld.org/analysis/byd/) #finance
 - [Industrial Policy Is a Good Idea, but So Far We Don’t Have One](https://www.ineteconomics.org/perspectives/blog/industrial-policy-is-a-good-idea-but-so-far-we-dont-have-one) #finance
-- [Penpot: Tool for design and code collaboration](https://github.com/penpot/penpot) #design
-- [DNSViz : A DNS visualization tool](https://dnsviz.net/) #hacks
 - [I Bonds History](http://eyebonds.info/ibonds/index.html) #finance
-- [Blocky: Fast and lightweight DNS proxy as ad-blocker](https://github.com/0xERR0R/blocky) #hacks
-- [Observable framework](https://github.com/observablehq/framework) #hacks
 - [Vue Energy Monitors](https://www.emporiaenergy.com/energy-monitors/) #eclectic
-- [Ambient Sounds](https://mynoise.net/index.php) #eclectic
-- [Ambiphone](https://ambiph.one/) #eclectic
-- [Record and share your terminal sessions](https://asciinema.org/) #hacks
-- [Bulletpapers](https://www.bulletpapers.ai/) #hacks
+- [Record and share your terminal sessions](https://asciinema.org/) #code
 - [Misfits' Architecture](https://misfitsarchitecture.com/) #eclectic
-- [aws-fis-templates-cdk: Fault Injection Simulator (FIS) experiment templates via the CDK](https://github.com/adhorn/aws-fis-templates-cdk) #hacks
-- [Mrsk: Deploy web apps anywhere](https://github.com/mrsked/mrsk) #hacks
-- [Dyf tool for YAML files, and sometimes JSON](https://github.com/homeport/dyff) #hacks
-- [json-diff-kit: Differ and viewer](https://github.com/RexSkz/json-diff-kit) #hacks
-- [Dub: Open-source link shortener with built-in analytics](https://github.com/steven-tey/dub) #hacks
-- [Momento - Serverless caching](https://www.gomomento.com/) #hacks
-- [Vector - Building observability pipelines](https://vector.dev/) #hacks
-- [Benthos - Fancy stream processing made operationally mundane](https://www.benthos.dev/) #hacks
-- [AI Infrastructure-as-Code](https://github.com/gofireflyio/aiac) #hacks
-- [Boring SVG avatars](https://github.com/boringdesigners/boring-avatars) #design
-- [Khroma - The AI color tool for designers](https://www.khroma.co/) #design
-- [Notification Infrastructure as a Service](https://engagespot.co/) #hacks
-- [Eraser – The whiteboard for engineering teams](https://www.eraser.io/home) #design
-- [ngrok - Online in One Line](https://ngrok.com/) #hacks
-- [Poline - Esoteric Color Palette Generation](https://meodai.github.io/poline/) #design
-- [Act - Run your GitHub Actions locally](https://github.com/nektos/act) #hacks
+- [Momento - Serverless caching](https://www.gomomento.com/) #code
+- [Vector - Building observability pipelines](https://vector.dev/) #code
 - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study/)
 - [The Public Domain Review](https://publicdomainreview.org/)
-- [How China Could Re-Dollarize The World](https://indi.ca/how-china-starts-printing-usd/)
-- [Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/pdf/2310.02003)
 - [Lost In The Future](https://www.wheresyoured.at/lost-in-the-future/)
-- [Building and Debugging Multi-Agent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/AutoGen_Studio-12.pdf) #ai
-- [Programming Fonts - Test Drive](https://www.programmingfonts.org/) #eclectic
-- [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/abs/2310.16340) #ai
-- [GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension](https://arxiv.org/abs/2312.17294) #ai
-- [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) #ai
-- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #ai
-- [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #ai
+- [Building and Debugging Multi-Agent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/AutoGen_Studio-12.pdf) #neuron
+- [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) #neuron
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) #neuron
+- [Why large language models struggle with long contexts](https://www.understandingai.org/p/why-large-language-models-struggle) #neuron
 - [What Is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
-- [LLM Routing](https://freedium.cfd/https://towardsdatascience.com/llm-routing-intuitively-and-exhaustively-explained-5b0789fe27aa) #ai
 - [Microeconomics of free software](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
-- [A Radical Way of Unleashing a Generation of Geniuses](https://www.wired.com/2013/10/free-thinkers/)
-- [The most important speech of the decade?](https://www.thomasfazi.com/p/the-most-important-speech-of-the)
 - [Pere Portabella looks back](/news-opinion/sight-sound-magazine/interviews/pere-portabella-bunuel-lorca)
 - [The meaning of freedom and security](https://alexkrainer.substack.com/p/the-meaning-of-freedom-and-security)
 - [A Foreign Policy for the World as It Is](https://www.foreignaffairs.com/united-states/biden-foreign-policy-world-rhodes)
 - [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 - [The easy we make difficult, but it takes a long time.](https://mythfighter.com/2024/06/19/the-easy-we-make-difficult-but-it-takes-a-long-time/)
 - [How to understand central bank QE losses](https://www.ft.com/content/a2a3921d-c4de-4f0c-9eec-e8ea0345f8b4)
-- [Rest of World](https://restofworld.org/)
-- [Phenomenal World](https://www.phenomenalworld.org/)
 - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower)
 - [Why global GDP might be $7trn bigger than everyone thought](https://archive.ph/2024.06.11-022431/https://www.economist.com/finance-and-economics/2024/06/06/why-global-gdp-might-be-7trn-bigger-than-everyone-thought) 
 - [Semafor Technology](https://www.semafor.com/vertical/tech) 
@@ -175,6 +137,3 @@
 - [Specific process by which Google enshittified its search](https://pluralistic.net/2024/04/24/naming-names/)
 - [Costs of War - Big Tech and Silicon Valley](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/2024/Silicon%20Valley%20MIC.pdf)
 - [Fitzcarraldo Editions](https://fitzcarraldoeditions.com/)
-- [Cyclic.sh - Fullstack Javascript Apps](https://www.cyclic.sh/) #hacks
-- [Ntfy - Push notifications using PUT/POST](https://github.com/binwiederhier/ntfy) #hacks
-- [D2 - Diagram scripting language](https://github.com/terrastruct/d2) #hacks
