@@ -1,3 +1,4 @@
+- [Model Lake for Management and Governance](https://arxiv.org/abs/2503.22754) #arxiv
 - [How LLMs think differently](https://thinkingaboutbehavior.substack.com/p/how-llms-think-differently) #neuron
 - [Fed Urged to Mull a Hedge Fund Bailout Facility for Basis Trades](https://www.bloomberg.com/news/articles/2025-03-27/fed-urged-to-mull-a-hedge-fund-bailout-facility-for-basis-trades) #biblio
 - [Pointer](https://www.trypointer.com/) #neuron
