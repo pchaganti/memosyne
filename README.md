@@ -1,3 +1,4 @@
+- [Architecture decision records for effective decision-making](https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/) #code
 - [In the Era of Screens, Rest is Crucial](https://www.nationalgeographic.com/magazine/article/science-of-sleep) #eclectic
 - [Model Lake for Management and Governance](https://arxiv.org/abs/2503.22754) #arxiv
 - [How LLMs think differently](https://thinkingaboutbehavior.substack.com/p/how-llms-think-differently) #neuron
