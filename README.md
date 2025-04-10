@@ -1,3 +1,4 @@
+- [Forsaking Industrialism](https://radicalcontributions.substack.com/p/forsaking-industrialism-the-most-expensive-thing-you-didnt-buy) #finance
 - [Build and deploy Remote MCP servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/) #neuron
 - [Researchers teach LLMs to solve complex planning challenges](https://news.mit.edu/2025/researchers-teach-llms-to-solve-complex-planning-challenges-0402) #neuron
 - [Planning with Rigor](https://arxiv.org/pdf/2410.12112) #neuron
