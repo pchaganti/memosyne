@@ -1,3 +1,4 @@
+- [The China Shock](https://www.nber.org/system/files/working_papers/w21906/w21906.pdf) #finance
 - [Elite Underproduction](https://radicalcontributions.substack.com/p/elite-underproduction-why-we-cant-solve-hard-problems-anymore) #finance
 - [Forsaking Industrialism](https://radicalcontributions.substack.com/p/forsaking-industrialism-the-most-expensive-thing-you-didnt-buy) #finance
 - [Build and deploy Remote MCP servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/) #neuron
