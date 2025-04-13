@@ -1,3 +1,4 @@
+- [A Missing Mental Model](https://nmn.gl/blog/ai-understand-senior-developer) #neuron
 - [Human-Centered Pull Requests](https://reillyherrewig.substack.com/p/human-centered-pull-requests-8-tips) #code
 - [Carney’s Checkmate and Canada's Quiet Bond Play](https://deanblundell.substack.com/p/carneys-checkmate-how-canadas-quiet?triedRedirect=true) #finance
 - [Automating Tools for Prompt Engineering](https://cacm.acm.org/news/automating-tools-for-prompt-engineering/) #neuron
