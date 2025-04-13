@@ -1,3 +1,4 @@
+- [Writing Cursor Rules with a Cursor Rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule) #neuron
 - [A Missing Mental Model](https://nmn.gl/blog/ai-understand-senior-developer) #neuron
 - [Human-Centered Pull Requests](https://reillyherrewig.substack.com/p/human-centered-pull-requests-8-tips) #code
 - [Carney’s Checkmate and Canada's Quiet Bond Play](https://deanblundell.substack.com/p/carneys-checkmate-how-canadas-quiet?triedRedirect=true) #finance
