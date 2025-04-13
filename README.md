@@ -1,3 +1,4 @@
+- [Carney’s Checkmate and Canada's Quiet Bond Play](https://deanblundell.substack.com/p/carneys-checkmate-how-canadas-quiet?triedRedirect=true) #finance
 - [Automating Tools for Prompt Engineering](https://cacm.acm.org/news/automating-tools-for-prompt-engineering/) #neuron
 - [The China Shock](https://www.nber.org/system/files/working_papers/w21906/w21906.pdf) #finance
 - [Elite Underproduction](https://radicalcontributions.substack.com/p/elite-underproduction-why-we-cant-solve-hard-problems-anymore) #finance
