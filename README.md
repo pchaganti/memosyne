@@ -1,3 +1,4 @@
+- [Automating Tools for Prompt Engineering](https://cacm.acm.org/news/automating-tools-for-prompt-engineering/) #neuron
 - [The China Shock](https://www.nber.org/system/files/working_papers/w21906/w21906.pdf) #finance
 - [Elite Underproduction](https://radicalcontributions.substack.com/p/elite-underproduction-why-we-cant-solve-hard-problems-anymore) #finance
 - [Forsaking Industrialism](https://radicalcontributions.substack.com/p/forsaking-industrialism-the-most-expensive-thing-you-didnt-buy) #finance
