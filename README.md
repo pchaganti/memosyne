@@ -1,3 +1,4 @@
+- [Sound As Code](https://www.perfectcircuit.com/signal/sound-as-code) #eclectic
 - [Everything You Need to Know About the Basis Trade Spooking Markets](https://www.bloomberg.com/news/newsletters/2025-04-09/everything-you-need-to-know-about-the-basis-trade-spooking-markets) #finance
 - [5 Levels of Agentic AI Systems](https://blog.dailydoseofds.com/p/5-levels-of-agentic-ai-systems) #neuron
 - [Writing Cursor Rules with a Cursor Rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule) #neuron
