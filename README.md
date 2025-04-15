@@ -1,3 +1,4 @@
+- [Reverse engineering Claude Code](https://kirshatrov.com/posts/claude-code-internals) #neuron
 - [Chartbook 319](https://adamtooze.substack.com/p/chartbook-319-talking-about-a-marshall) #finance
 - [Sound As Code](https://www.perfectcircuit.com/signal/sound-as-code) #eclectic
 - [Everything You Need to Know About the Basis Trade Spooking Markets](https://www.bloomberg.com/news/newsletters/2025-04-09/everything-you-need-to-know-about-the-basis-trade-spooking-markets) #finance
