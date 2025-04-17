@@ -1,3 +1,4 @@
+- [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/) #neuron
 - [To Make Language Models Work Better, Researchers Sidestep Language](https://archive.is/2025.04.14-181602/https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/) #neuron
 - [Reverse engineering Claude Code](https://kirshatrov.com/posts/claude-code-internals) #neuron
 - [Chartbook 319](https://adamtooze.substack.com/p/chartbook-319-talking-about-a-marshall) #finance
