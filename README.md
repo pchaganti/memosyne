@@ -1,3 +1,4 @@
+- [China is in third phase of its development](https://tphuang.substack.com/p/china-is-in-third-phase-of-its-development) #finance
 - [Review Archives](https://chinabooksreview.com/category/review/) #biblio
 - [Dopamine ‘gas pedal’ and serotonin ‘brake’ team up to accelerate learning](https://www.thetransmitter.org/learning/dopamine-gas-pedal-and-serotonin-brake-team-up-to-accelerate-learning/) #eclectic
 - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/) #neuron
