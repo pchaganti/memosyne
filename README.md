@@ -1,3 +1,4 @@
+- [DecisionBots](https://www.lesswrong.com/posts/ky4bbxupiZtdoLupo/a-new-type-of-ai-decisionbots-and-80-concepts-on-it) #neuron
 - [A Philosopher Released an Acclaimed Book About Digital Manipulation](https://www.wired.com/story/an-acclaimed-book-about-digital-manipulation-was-actually-written-by-ai/) #eclectic
 - [How the Treasury market got hooked on hedge fund leverage](https://archive.ph/2025.04.25-093502/https://www.ft.com/content/0bf5bcc2-6ff1-4309-afbf-f470250a4721) #finance
 - [How to think about agent frameworks](https://blog.langchain.dev/how-to-think-about-agent-frameworks/) #neuron
