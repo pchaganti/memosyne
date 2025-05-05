@@ -1,3 +1,4 @@
+- [China's factories are in another world](https://kdwalmsley.substack.com/p/chinas-factories-are-in-another-world) #eclectic
 - [The Robotics Threshold](https://www.edgeofautomation.com/p/the-robotics-threshold-chinas-rise) #eclectic
 - [DecisionBots](https://www.lesswrong.com/posts/ky4bbxupiZtdoLupo/a-new-type-of-ai-decisionbots-and-80-concepts-on-it) #neuron
 - [A Philosopher Released an Acclaimed Book About Digital Manipulation](https://www.wired.com/story/an-acclaimed-book-about-digital-manipulation-was-actually-written-by-ai/) #eclectic
