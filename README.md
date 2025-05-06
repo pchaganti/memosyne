@@ -1,3 +1,4 @@
+- [Agentic Patterns](https://www.philschmid.de/agentic-pattern) #neuron
 - [Can Huawei Take On Nvidia's CUDA?](https://www.chinatalk.media/p/can-huawei-compete-with-cuda) #eclectic
 - [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner) #art
 - [China's factories are in another world](https://kdwalmsley.substack.com/p/chinas-factories-are-in-another-world) #eclectic
