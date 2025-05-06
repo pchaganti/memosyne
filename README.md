@@ -1,3 +1,4 @@
+- [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner) #art
 - [China's factories are in another world](https://kdwalmsley.substack.com/p/chinas-factories-are-in-another-world) #eclectic
 - [The Robotics Threshold](https://www.edgeofautomation.com/p/the-robotics-threshold-chinas-rise) #eclectic
 - [DecisionBots](https://www.lesswrong.com/posts/ky4bbxupiZtdoLupo/a-new-type-of-ai-decisionbots-and-80-concepts-on-it) #neuron
