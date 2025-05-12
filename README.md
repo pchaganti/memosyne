@@ -1,3 +1,4 @@
+- [Understanding Embeddings](https://sgnt.ai/p/embeddings-explainer/) #neuron
 - [Codetations for intelligent, Persistent Notes and UIs](https://arxiv.org/html/2504.18702v1) #neuron
 - [Our True Enemy Has Yet to Reveal Himself](https://www.epsilontheory.com/our-true-enemy-has-yet-to-reveal-himself/) #finance
 - [Agentic Patterns](https://www.philschmid.de/agentic-pattern) #neuron
