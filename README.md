@@ -1,10 +1,10 @@
-- [MLX Fine-tuning Google Gemma](https://gist.github.com/alexweberk/635431b5c5773efd6d1755801020429f) #neuron
+- [MLX Fine tuning Google Gemma](https://gist.github.com/alexweberk/635431b5c5773efd6d1755801020429f) #neuron
 - [Close Reading Is For Everyone](https://defector.com/close-reading-is-for-everyone) #biblio
 - [The Software Engineering Kawagara Moment](https://pashabitz.substack.com/p/the-software-engineering-kawagara) #biblio
 - [MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) #neuron
 - [The AI Engineering Stack](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack) #neuron
 - [Introducing Hardened Images](https://www.docker.com/blog/introducing-docker-hardened-images/) #eclectic
-- [Age of mediocrity, designers and the AI mirror](https://pianabianco.com/inout/age-of-mediocrity-designers-and-the-ai-mirror/) #eclectic#design
+- [Age of mediocrity, designers and the AI mirror](https://pianabianco.com/inout/age-of-mediocrity-designers-and-the-ai-mirror/) #design
 - [Understanding Embeddings](https://sgnt.ai/p/embeddings-explainer/) #neuron
 - [Codetations for intelligent, Persistent Notes and UIs](https://arxiv.org/html/2504.18702v1) #neuron
 - [Our True Enemy Has Yet to Reveal Himself](https://www.epsilontheory.com/our-true-enemy-has-yet-to-reveal-himself/) #finance
