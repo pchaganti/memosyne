@@ -1,3 +1,4 @@
+- [The Software Engineering Kawagara Moment](https://pashabitz.substack.com/p/the-software-engineering-kawagara) #biblio
 - [MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) #neuron
 - [The AI Engineering Stack](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack) #neuron
 - [Introducing Hardened Images](https://www.docker.com/blog/introducing-docker-hardened-images/) #eclectic
