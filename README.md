@@ -1,3 +1,4 @@
+- [MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) #neuron
 - [The AI Engineering Stack](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack) #neuron
 - [Introducing Hardened Images](https://www.docker.com/blog/introducing-docker-hardened-images/) #eclectic
 - [Age of mediocrity, designers and the AI mirror](https://pianabianco.com/inout/age-of-mediocrity-designers-and-the-ai-mirror/) #eclectic#design
