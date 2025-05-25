@@ -1,3 +1,4 @@
+- [Kawase Toshiro](http://kawase-toshiro.net/) #design
 - [MLX Fine tuning Google Gemma](https://gist.github.com/alexweberk/635431b5c5773efd6d1755801020429f) #neuron
 - [Close Reading Is For Everyone](https://defector.com/close-reading-is-for-everyone) #biblio
 - [The Software Engineering Kawagara Moment](https://pashabitz.substack.com/p/the-software-engineering-kawagara) #biblio
