@@ -1,3 +1,4 @@
+- [The Hundred Lens War](https://www.chinatalk.media/p/chinas-ar-arms-race) #eclectic
 - [ChartHN](https://cxumol.github.io/chartHN/?date=2025-05-26) #eclectic
 - [Kawase Toshiro](http://kawase-toshiro.net/) #design
 - [MLX Fine tuning Google Gemma](https://gist.github.com/alexweberk/635431b5c5773efd6d1755801020429f) #neuron
