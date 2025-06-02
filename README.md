@@ -1,3 +1,4 @@
+- [Directing LLMs with Convergent and Divergent System Instructions](https://ailookingglass.blogspot.com/2025/05/beyond-basic-prompts-directing-llms.html) #neuron
 - [Chef's Table with Nvidia](https://justdario.com/2025/05/chefs-table-nvidia/) #finance
 - [The Hundred Lens War](https://www.chinatalk.media/p/chinas-ar-arms-race) #eclectic
 - [ChartHN](https://cxumol.github.io/chartHN/?date=2025-05-26) #eclectic
