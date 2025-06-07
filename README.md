@@ -1,3 +1,4 @@
+- [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/) #neuron
 - [Directing LLMs with Convergent and Divergent System Instructions](https://ailookingglass.blogspot.com/2025/05/beyond-basic-prompts-directing-llms.html) #neuron
 - [Chef's Table with Nvidia](https://justdario.com/2025/05/chefs-table-nvidia/) #finance
 - [The Hundred Lens War](https://www.chinatalk.media/p/chinas-ar-arms-race) #eclectic
