@@ -1,3 +1,4 @@
+- [AI Agents from First Principles](https://cameronrwolfe.substack.com/p/ai-agents) #neuron
 - [Marx was a Free Marketeer](https://michael-hudson.com/2025/06/the-value-war/) #finance
 - [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/) #neuron
 - [Directing LLMs with Convergent and Divergent System Instructions](https://ailookingglass.blogspot.com/2025/05/beyond-basic-prompts-directing-llms.html) #neuron
