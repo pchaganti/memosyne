@@ -1,3 +1,4 @@
+- [Quilt](https://www.quilt.com/) #eclectic
 - [China's Evolving Industrial Policy for AI](https://www.rand.org/pubs/perspectives/PEA4012-1.html) #biblio
 - [AI Agents from First Principles](https://cameronrwolfe.substack.com/p/ai-agents) #neuron
 - [Marx was a Free Marketeer](https://michael-hudson.com/2025/06/the-value-war/) #finance
