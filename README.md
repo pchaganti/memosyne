@@ -1,3 +1,4 @@
+- [The Ascendance Of Algorithmic Tyranny](https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny) #biblio
 - [Quilt](https://www.quilt.com/) #eclectic
 - [China's Evolving Industrial Policy for AI](https://www.rand.org/pubs/perspectives/PEA4012-1.html) #biblio
 - [AI Agents from First Principles](https://cameronrwolfe.substack.com/p/ai-agents) #neuron
