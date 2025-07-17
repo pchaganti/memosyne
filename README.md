@@ -1,3 +1,4 @@
+- [Mental models in the age of AI coding](https://www.nutrient.io/blog/peter-naur-legacy-mental-models-age-ai-coding/) #neuron
 - [The Ascendance Of Algorithmic Tyranny](https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny) #biblio
 - [Quilt](https://www.quilt.com/) #eclectic
 - [China's Evolving Industrial Policy for AI](https://www.rand.org/pubs/perspectives/PEA4012-1.html) #biblio
