@@ -1,3 +1,4 @@
+- [Small Language Models are the Future of Agentic AI](https://research.nvidia.com/labs/lpr/slm-agents/) #neuron
 - [Mental models in the age of AI coding](https://www.nutrient.io/blog/peter-naur-legacy-mental-models-age-ai-coding/) #neuron
 - [The Ascendance Of Algorithmic Tyranny](https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny) #biblio
 - [Quilt](https://www.quilt.com/) #eclectic
