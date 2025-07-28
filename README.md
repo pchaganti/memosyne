@@ -1,3 +1,4 @@
+- [Why Japanese Developers Write Code Completely Differently](https://archive.ph/2025.07.28-053151/https://medium.com/@sohail_saifi/why-japanese-developers-write-code-completely-differently-and-why-it-works-better-de84d6244fab) #eclectic
 - [How Much Longer Can We Trust Our Economic Statistics?](https://www.nakedcapitalism.com/2025/07/how-much-longer-can-we-trust-our-economic-statistics.html) #eclectic
 - [Small Language Models are the Future of Agentic AI](https://research.nvidia.com/labs/lpr/slm-agents/) #neuron
 - [Mental models in the age of AI coding](https://www.nutrient.io/blog/peter-naur-legacy-mental-models-age-ai-coding/) #neuron
