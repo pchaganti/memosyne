@@ -1,3 +1,4 @@
+- [BEHIND THE FOG](https://justdario.com/2025/08/behind-the-fog-nvidias-revenue-recognition-red-flags-and-declining-capacity-agreements/) #finance
 - [Learning Greek](https://spergler.substack.com/p/learning-greek) #eclectic
 - [How AI, Healthcare, and Labubu Became the US Economy](https://kyla.substack.com/p/how-ai-healthcare-and-labubu-became) #finance
 - [Why Japanese Developers Write Code Completely Differently](https://archive.ph/2025.07.28-053151/https://medium.com/@sohail_saifi/why-japanese-developers-write-code-completely-differently-and-why-it-works-better-de84d6244fab) #eclectic
