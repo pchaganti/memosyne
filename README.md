@@ -1,3 +1,4 @@
+- [Almost anything you give sustained attention to will begin to loop on itself and bloom](https://www.henrikkarlsson.xyz/p/attention) #eclectic
 - [BEHIND THE FOG](https://justdario.com/2025/08/behind-the-fog-nvidias-revenue-recognition-red-flags-and-declining-capacity-agreements/) #finance
 - [Learning Greek](https://spergler.substack.com/p/learning-greek) #eclectic
 - [How AI, Healthcare, and Labubu Became the US Economy](https://kyla.substack.com/p/how-ai-healthcare-and-labubu-became) #finance
