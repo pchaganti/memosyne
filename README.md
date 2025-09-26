@@ -1,3 +1,4 @@
+- [MCP from first principles](https://astro-paper.pages.dev/posts/mcp-from-first-principles/) #neuron
 - [Create fillable PDF forms](https://instafill.ai/tools/create-fillable-pdf) #eclectic
 - [Almost anything you give sustained attention to will begin to loop on itself and bloom](https://www.henrikkarlsson.xyz/p/attention) #eclectic
 - [BEHIND THE FOG](https://justdario.com/2025/08/behind-the-fog-nvidias-revenue-recognition-red-flags-and-declining-capacity-agreements/) #finance
