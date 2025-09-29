@@ -1,3 +1,4 @@
+- [Equinox greetings](https://probablefutures.org/perspective/equinox-greetings-what-is-it-worth-to-you/) #finance
 - [MCP from first principles](https://astro-paper.pages.dev/posts/mcp-from-first-principles/) #neuron
 - [Create fillable PDF forms](https://instafill.ai/tools/create-fillable-pdf) #eclectic
 - [Almost anything you give sustained attention to will begin to loop on itself and bloom](https://www.henrikkarlsson.xyz/p/attention) #eclectic
