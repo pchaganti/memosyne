@@ -1,3 +1,4 @@
+- [Deficits and Bonds](https://warwickpowell.substack.com/p/us-government-deficits-and-bonds) #finance
 - [Equinox greetings](https://probablefutures.org/perspective/equinox-greetings-what-is-it-worth-to-you/) #finance
 - [MCP from first principles](https://astro-paper.pages.dev/posts/mcp-from-first-principles/) #neuron
 - [Create fillable PDF forms](https://instafill.ai/tools/create-fillable-pdf) #eclectic
