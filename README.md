@@ -1,3 +1,4 @@
+- [How I read](https://www.henrikkarlsson.xyz/p/how-i-read) #biblio
 - [Random Daily URLs](https://randomdailyurls.com/archive) #eclectic
 - [Deficits and Bonds](https://warwickpowell.substack.com/p/us-government-deficits-and-bonds) #finance
 - [Equinox greetings](https://probablefutures.org/perspective/equinox-greetings-what-is-it-worth-to-you/) #finance
