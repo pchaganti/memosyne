@@ -1,3 +1,4 @@
+- [Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v1) #neuron
 - [Barbarians at the Gate](https://arxiv.org/html/2510.06189v2) #neuron
 - [How I read](https://www.henrikkarlsson.xyz/p/how-i-read) #biblio
 - [Random Daily URLs](https://randomdailyurls.com/archive) #eclectic
