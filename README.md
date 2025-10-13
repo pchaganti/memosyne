@@ -1,3 +1,4 @@
+- [For Many, This Recession Will Feel Like a Depression](https://charleshughsmith.substack.com/p/for-many-this-recession-will-feel) #finance
 - [Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v1) #neuron
 - [Barbarians at the Gate](https://arxiv.org/html/2510.06189v2) #neuron
 - [How I read](https://www.henrikkarlsson.xyz/p/how-i-read) #biblio
