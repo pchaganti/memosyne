@@ -1,3 +1,4 @@
+- [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://news.ycombinator.com/item?id=45512538) #eclectic
 - [For Many, This Recession Will Feel Like a Depression](https://charleshughsmith.substack.com/p/for-many-this-recession-will-feel) #finance
 - [Evolving Contexts for Self-Improving Language Models](https://arxiv.org/html/2510.04618v1) #neuron
 - [Barbarians at the Gate](https://arxiv.org/html/2510.06189v2) #neuron
