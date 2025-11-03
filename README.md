@@ -1,3 +1,4 @@
+- [How Savvy Companies Are Using Chinese AI](https://hbr.org/2025/09/how-savvy-companies-are-using-chinese-ai) #finance
 - [The Tortoise and the Hare in AI](https://warwickpowell.substack.com/p/the-tortoise-and-the-hare-in-ai) #finance
 - [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://news.ycombinator.com/item?id=45512538) #eclectic
 - [For Many, This Recession Will Feel Like a Depression](https://charleshughsmith.substack.com/p/for-many-this-recession-will-feel) #finance
