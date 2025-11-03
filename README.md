@@ -1,3 +1,4 @@
+- [Debt and the cockroaches](https://thenextrecession.wordpress.com/2025/11/01/debt-and-the-cockroaches/) #finance
 - [How Savvy Companies Are Using Chinese AI](https://hbr.org/2025/09/how-savvy-companies-are-using-chinese-ai) #finance
 - [The Tortoise and the Hare in AI](https://warwickpowell.substack.com/p/the-tortoise-and-the-hare-in-ai) #finance
 - [The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps](https://news.ycombinator.com/item?id=45512538) #eclectic
