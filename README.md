@@ -1,3 +1,4 @@
+- [Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where) #eclectic
 - [Marc Andreessen as Avatar for Societal Decay](https://www.infinitescroll.us/p/marc-andreessen-as-avatar-for-societal) #eclectic
 - [Is This Rock Bottom?](https://www.americasundoing.com/p/is-this-rock-bottom) #finance
 - [Debt and the cockroaches](https://thenextrecession.wordpress.com/2025/11/01/debt-and-the-cockroaches/) #finance
