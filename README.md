@@ -1,3 +1,4 @@
+- [My Life Is a Lie](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie) #finance
 - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) #neuron
 - [Where Did American Prosperity Go?](https://kyla.substack.com/p/30-days-9-cities-1-question-where) #eclectic
 - [Marc Andreessen as Avatar for Societal Decay](https://www.infinitescroll.us/p/marc-andreessen-as-avatar-for-societal) #eclectic
