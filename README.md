@@ -1,3 +1,4 @@
+- [America-China Watcher](https://xcancel.com/PandemicTruther/status/1994675676448788612) #finance
 - [America-China Watcher](https://twitter.com/PandemicTruther/status/1994675676448788612) #finance
 - [It Works, If You Work It](https://www.americasundoing.com/p/it-works-if-you-work-it) #finance
 - [My Life Is a Lie](https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie) #finance
