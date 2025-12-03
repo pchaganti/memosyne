@@ -1,3 +1,4 @@
+- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) #neuron
 - [America-China Watcher](https://xcancel.com/PandemicTruther/status/1994675676448788612) #finance
 - [America-China Watcher](https://twitter.com/PandemicTruther/status/1994675676448788612) #finance
 - [It Works, If You Work It](https://www.americasundoing.com/p/it-works-if-you-work-it) #finance
