@@ -1,3 +1,4 @@
+- [How AI is Shaping My Investment Portfolio for 2026](https://philippdubach.com/2025/12/12/how-ai-is-shaping-my-investment-portfolio-for-2026/) #finance
 - [Remaking Globalization for an Era of Trade Wars](https://jacobin.com/2025/12/globalization-free-trade-tariffs-debt-keynes) #finance
 - [Using Cloudflare ZeroTrust and mTLS](https://kcore.org/2024/06/28/using-cloudflare-zerotrust-and-mtls-with-home-assistant-via-the-internet/) #eclectic
 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) #neuron
