@@ -1,3 +1,4 @@
+- [The New Skill in AI is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering) #neuron
 - [The World At Eleven](https://aurelien2022.substack.com/p/the-world-at-eleven) #eclectic
 - [The AI Bubble in 2026](https://thetechbubble.substack.com/p/the-ai-bubble-in-2026-14) #neuron
 - [How AI is Shaping My Investment Portfolio for 2026](https://philippdubach.com/2025/12/12/how-ai-is-shaping-my-investment-portfolio-for-2026/) #finance
