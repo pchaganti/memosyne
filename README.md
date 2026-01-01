@@ -1,3 +1,4 @@
+- [The Short Case for Nvidia Stock](https://jeffreyemanuel.com/writing/the_short_case_for_nvda) #finance
 - [The Enshittifinancial Crisis](https://www.wheresyoured.at/the-enshittifinancial-crisis/) #finance
 - [Think about Direction](https://zhengdongwang.com/productivity.html) #eclectic
 - [The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/) #neuron
