@@ -1,3 +1,4 @@
+- [Why Hume is better at explaining modern capitalism than Marx](https://aeon.co/essays/why-hume-is-better-at-explaining-modern-capitalism-than-marx) #eclectic
 - [The Rise of Prediction Markets](https://archive.ph/2026.01.19-194755/https://www.nytimes.com/2026/01/19/technology/polymarket-kalshi-prediction-markets.html) #eclectic
 - [Claude Code Did My Taxes](https://klmn.sh/essays/claude-code-for-taxes) #finance
 - [The Short Case for Nvidia Stock](https://jeffreyemanuel.com/writing/the_short_case_for_nvda) #finance
