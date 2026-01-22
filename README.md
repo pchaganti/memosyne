@@ -1,3 +1,4 @@
+- [I Gave Claude Code 9.5 Years of Health Data to Help Manage my Thyroid Disease](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f) #neuron
 - [Why Hume is better at explaining modern capitalism than Marx](https://aeon.co/essays/why-hume-is-better-at-explaining-modern-capitalism-than-marx) #eclectic
 - [The Rise of Prediction Markets](https://archive.ph/2026.01.19-194755/https://www.nytimes.com/2026/01/19/technology/polymarket-kalshi-prediction-markets.html) #eclectic
 - [Claude Code Did My Taxes](https://klmn.sh/essays/claude-code-for-taxes) #finance
