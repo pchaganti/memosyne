@@ -1,3 +1,4 @@
+- [Using a Jailbroken Gemini to Make Opus 4.6 Architect](https://recursion.wtf/posts/shadow_queen/) #neuron
 - [US economy beneath the bombast](https://www.cadtm.org/US-economy-beneath-the-bombast) #finance
 - [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html) #eclectic
 - [I Gave Claude Code 9.5 Years of Health Data to Help Manage my Thyroid Disease](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f) #neuron
