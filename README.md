@@ -1,3 +1,4 @@
+- [Legal skills by Skala](https://www.skala.io/legal-skills) #neuron
 - [Using a Jailbroken Gemini to Make Opus 4.6 Architect](https://recursion.wtf/posts/shadow_queen/) #neuron
 - [US economy beneath the bombast](https://www.cadtm.org/US-economy-beneath-the-bombast) #finance
 - [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html) #eclectic
