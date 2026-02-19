@@ -1,3 +1,4 @@
+- [The Great Alzheimer's Scam and The Proven Cures They've Buried for Billions](https://www.midwesterndoctor.com/p/the-great-alzheimers-scam-and-the) #eclectic
 - [How a 150-year-old Japanese workshop survived the age of slop and distraction](https://bigthinkmedia.substack.com/p/how-a-small-shop-in-kyoto-connects) #eclectic
 - [Legal skills by Skala](https://www.skala.io/legal-skills) #neuron
 - [Using a Jailbroken Gemini to Make Opus 4.6 Architect](https://recursion.wtf/posts/shadow_queen/) #neuron
