@@ -1,3 +1,4 @@
+- [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame) #finance
 - [How China’s AI-Powered Robots Could Reshape the Global Order](https://thediplomat.com/2026/03/how-chinas-ai-powered-robots-could-reshape-the-global-order/) #eclectic
 - [My lobster lost $450,000 this weekend](https://pashpashpash.substack.com/p/my-lobster-lost-450000-this-weekend) #eclectic
 - [Finance in the Dark](https://www.phenomenalworld.org/analysis/finance-in-the-dark/) #finance
