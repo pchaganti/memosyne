@@ -1,3 +1,4 @@
+- [The Ozempicization of Everything](https://kyla.substack.com/p/the-ozempicization-of-the-economy) #eclectic
 - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html) #eclectic
 - [Unsuccessfully training AI to play my favorite childhood game nobody ever heard of](../../posts/ddnet-rl/) #neuron
 - [The Spodocene - inhabiting the ruins of progress](https://geopolitiq.substack.com/p/the-spodocene-inhabiting-the-ruins) #eclectic
