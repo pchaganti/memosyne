@@ -1,3 +1,4 @@
+- [War, Inflation and Central Banker Threats to The Global Casino](https://annpettifor.substack.com/p/war-inflation-and-central-banker) #finance
 - [The Ozempicization of Everything](https://kyla.substack.com/p/the-ozempicization-of-the-economy) #eclectic
 - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html) #eclectic
 - [Unsuccessfully training AI to play my favorite childhood game nobody ever heard of](../../posts/ddnet-rl/) #neuron
