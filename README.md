@@ -1,3 +1,4 @@
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) #eclectic
 - [Self-Coherence and the Fundamental Intuition of Stoicism](https://collegeofstoicphilosophers.org/ejournal/issue-6/) #eclectic
 - [How China Hopes to Build AGI Through Self-Improvement](https://www.chinatalk.media/p/how-china-hopes-to-build-agi-through) #neuron
 - [The Dark Forest Theory of the Internet](https://freedium-mirror.cfd/https://ystrickler.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1) #eclectic
