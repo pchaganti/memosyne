@@ -1,3 +1,4 @@
+- [SpaceX-stasy](https://x.com/edels0n/status/2059273253131350255) #finance
 - [The Reserve Currency Trap and The Mechanics of US Industrial Erosion](https://ctindale.substack.com/p/the-reserve-currency-trap-the-mechanics) #finance
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) #eclectic
 - [Self-Coherence and the Fundamental Intuition of Stoicism](https://collegeofstoicphilosophers.org/ejournal/issue-6/) #eclectic
