@@ -1,3 +1,4 @@
+- [The Thermodynamics of Capital](https://monthlyreview.org/articles/the-thermodynamics-of-capital/) #finance
 - [Mondragon as the new City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state) #eclectic
 - [SpaceX-stasy](https://x.com/edels0n/status/2059273253131350255) #finance
 - [The Reserve Currency Trap and The Mechanics of US Industrial Erosion](https://ctindale.substack.com/p/the-reserve-currency-trap-the-mechanics) #finance
