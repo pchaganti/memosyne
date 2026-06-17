@@ -1,3 +1,4 @@
+- [What Would It Look Like If the AI Bubble Popped?](https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai) #finance
 - [The Thermodynamics of Capital](https://monthlyreview.org/articles/the-thermodynamics-of-capital/) #finance
 - [Mondragon as the new City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state) #eclectic
 - [SpaceX-stasy](https://x.com/edels0n/status/2059273253131350255) #finance
