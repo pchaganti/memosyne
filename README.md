@@ -1,3 +1,4 @@
+- [Transmission Dominance with Chinese Characteristics](https://www.chinatalk.media/p/transmission-dominance-with-chinese) #finance
 - [What Would It Look Like If the AI Bubble Popped?](https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai) #finance
 - [The Thermodynamics of Capital](https://monthlyreview.org/articles/the-thermodynamics-of-capital/) #finance
 - [Mondragon as the new City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state) #eclectic
