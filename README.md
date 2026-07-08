@@ -1,3 +1,4 @@
+- [Brief the world, curated](https://briefnews.co/) #eclectic
 - [Yamanote.fun](https://www.yamanote.fun/) #eclectic
 - [The Permission Layer](https://shanakaanslemperera.substack.com/p/the-permission-layer) #finance
 - [Transmission Dominance with Chinese Characteristics](https://www.chinatalk.media/p/transmission-dominance-with-chinese) #finance
