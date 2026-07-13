@@ -1,3 +1,4 @@
+- [The Red Queen’s Race or Why No AI Lab Has a real MOAT](https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab) #neuron
 - [Brief the world, curated](https://briefnews.co/) #eclectic
 - [Yamanote.fun](https://www.yamanote.fun/) #eclectic
 - [The Permission Layer](https://shanakaanslemperera.substack.com/p/the-permission-layer) #finance
