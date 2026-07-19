@@ -1,3 +1,4 @@
+- [Why You Need to Read Sartre in the Age of Agentic AI](https://eamag.me/2026/why-you-need-to-read-sartre-in-the-age-of-agentic-ai) #eclectic
 - [The Quiet Powerbroker](https://www.thedial.world/articles/news/paris-credit-club-international-debt) #finance
 - [The Red Queen’s Race or Why No AI Lab Has a real MOAT](https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab) #neuron
 - [Brief the world, curated](https://briefnews.co/) #eclectic
